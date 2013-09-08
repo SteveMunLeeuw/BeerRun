@@ -23,8 +23,7 @@ define(
 
                         var infowindow = new google.maps.InfoWindow({
                             map: map,
-                            position: pos,
-                            content: 'Location found using HTML5.'
+                            position: pos
                         });
 
                         map.setCenter(pos);
