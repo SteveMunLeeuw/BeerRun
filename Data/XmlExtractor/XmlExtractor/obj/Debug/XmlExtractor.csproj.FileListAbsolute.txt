@@ -1,0 +1,6 @@
+C:\Users\MunLeeuw\Documents\GitHub\BeerRunData\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.exe.config
+C:\Users\MunLeeuw\Documents\GitHub\BeerRunData\XmlExtractor\XmlExtractor\obj\Debug\XmlExtractor.csprojResolveAssemblyReference.cache
+C:\Users\MunLeeuw\Documents\GitHub\BeerRunData\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.exe
+C:\Users\MunLeeuw\Documents\GitHub\BeerRunData\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.pdb
+C:\Users\MunLeeuw\Documents\GitHub\BeerRunData\XmlExtractor\XmlExtractor\obj\Debug\XmlExtractor.exe
+C:\Users\MunLeeuw\Documents\GitHub\BeerRunData\XmlExtractor\XmlExtractor\obj\Debug\XmlExtractor.pdb
