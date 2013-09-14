@@ -47,9 +47,20 @@
       <fill>1</fill>
     </PolyStyle>
   </Style>
-    <Style id="dry-pushpin">
+
+    <StyleMap id="dry-pushpin">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#s_dry-pushpin</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#s_dry-pushpin_hl</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="s_dry-pushpin">
       <IconStyle>
-        <color>44ff3366</color>
+        <color>44ff33bb</color>
         <scale>1.1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
@@ -57,6 +68,17 @@
         <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
       </IconStyle>
     </Style>
+    <Style id="s_dry-pushpin_hl">
+      <IconStyle>
+        <color>44ff33bb</color>
+        <scale>1.3</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+      </IconStyle>
+    </Style>
+
     
     
     
@@ -14602,7 +14624,7 @@
       <TimeSpan>
         <begin>1788</begin>
       </TimeSpan>
-      <styleUrl>#Style_5</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
       <MultiGeometry>
         <Point id="g910">
           <altitudeMode>clampToGround</altitudeMode>
@@ -14864,6 +14886,7 @@
     </Placemark>
     <Placemark>
       <name>Caneadea</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-78.15362100184679</longitude>
         <latitude>42.38645400049827</latitude>
@@ -14886,6 +14909,7 @@
     </Placemark>
     <Placemark>
       <name>Clymer</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-79.62996200021313</longitude>
         <latitude>42.02084999996654</latitude>
@@ -14893,16 +14917,15 @@
         <heading>-1.426574191276831e-010</heading>
         <tilt>0</tilt>
         <range>3044.438669261772</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-79.62996200021313,42.02084999996654,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Lapeer</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-76.0988159996827</longitude>
         <latitude>42.44201700049224</latitude>
@@ -14910,16 +14933,15 @@
         <heading>2.141006286600573e-010</heading>
         <tilt>0</tilt>
         <range>2715.101066603608</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-76.0988159996827,42.44201700049224,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Orwell</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-75.99630900043216</longitude>
         <latitude>43.57479199843176</latitude>
@@ -14927,16 +14949,15 @@
         <heading>-2.978955222978951e-010</heading>
         <tilt>0</tilt>
         <range>2715.864202615388</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-75.99630900043216,43.57479199843176,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Jasper</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-77.50304013898131</longitude>
         <latitude>42.12257184019837</latitude>
@@ -14944,9 +14965,8 @@
         <heading>-1.477496780059871e-008</heading>
         <tilt>0</tilt>
         <range>2752.053011589234</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
         <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-77.50304013898132,42.12257184019836,0</coordinates>
@@ -14954,6 +14974,7 @@
     </Placemark>
     <Placemark>
       <name>Freemont</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-77.3483597021938</longitude>
         <latitude>42.36463393179951</latitude>
@@ -14961,16 +14982,15 @@
         <heading>0.0738203996461836</heading>
         <tilt>1.249470969403612</tilt>
         <range>67428.07469685724</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-77.3483597021938,42.36463393179952,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Neversink</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-74.62501999860062</longitude>
         <latitude>41.84485299755571</latitude>
@@ -14978,16 +14998,15 @@
         <heading>9.335293753883787e-010</heading>
         <tilt>0</tilt>
         <range>2715.860149397942</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-74.62501999860064,41.84485299755571,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Berkshire</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-76.18659475304666</longitude>
         <latitude>42.30423970187847</latitude>
@@ -14995,16 +15014,15 @@
         <heading>7.427070674142187e-009</heading>
         <tilt>0</tilt>
         <range>1037.664943814597</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-76.18659475304666,42.30423970187847,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>Argyle</name>
+      <description><![CDATA[Dry<br><br>]]></description>
       <LookAt>
         <longitude>-73.49150200028218</longitude>
         <latitude>43.23785199946946</latitude>
@@ -15012,17 +15030,15 @@
         <heading>-1.933013913206266e-010</heading>
         <tilt>0</tilt>
         <range>1743.973319860013</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-73.49150200028218,43.23785199946946,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>West Almond</name>
-      <description>no off-premises consumption</description>
+      <description><![CDATA[no off-premises consumption<br><br>]]></description>
       <LookAt>
         <longitude>-77.88305499988063</longitude>
         <latitude>42.29951299994838</latitude>
@@ -15030,11 +15046,9 @@
         <heading>8.032172792567963e-011</heading>
         <tilt>0</tilt>
         <range>1000.000032627583</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
       </LookAt>
-      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <styleUrl>#dry-pushpin</styleUrl>
       <Point>
-        <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-77.88305499988063,42.29951299994838,0</coordinates>
       </Point>
     </Placemark>
