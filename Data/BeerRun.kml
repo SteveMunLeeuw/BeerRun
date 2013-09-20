@@ -15877,7 +15877,7 @@
     </Placemark>    
     <!--End New Jersey-->
 <!--Kansas-->
-      <!--<Placemark>
+      <Placemark>
         <description><![CDATA[State = Kansas<br>County = Norton<br>]]></description>
         <Polygon>
           <outerBoundaryIs>
@@ -15899,7 +15899,7 @@
         </Polygon>
         <styleUrl>#County_PartiallyWet</styleUrl>
       </Placemark>
-      <Placemark>
+      <!--<Placemark>
         <description><![CDATA[State = Kansas<br>County = Rawlins<br>]]></description>
         <Polygon>
           <outerBoundaryIs>
