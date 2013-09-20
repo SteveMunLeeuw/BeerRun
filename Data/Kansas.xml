@@ -1,0 +1,1158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Norton<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.163910,39.559143,0.000000 -100.179398,39.560665,0.000000 -100.180911,40.000479,0.000000 -99.627859,40.002988,0.000000 -99.625045,39.559482,0.000000 -100.163910,39.559143,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Phillips<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.625045,39.559482,0.000000 -99.627859,40.002988,0.000000 -99.178201,39.999577,0.000000 -99.064747,39.998338,0.000000 -99.062178,39.561568,0.000000 -99.601812,39.557774,0.000000 -99.625045,39.559482,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Rawlins<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.737845,39.566223,0.000000 -101.385283,39.565318,0.000000 -101.406760,39.567149,0.000000 -101.407393,40.001004,0.000000 -101.322149,40.001821,0.000000 -100.754856,40.000198,0.000000 -100.735049,39.999172,0.000000 -100.737845,39.566223,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Cheyenne<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-102.048802,39.562804,0.000000 -102.049443,39.568693,0.000000 -102.051536,39.998918,0.000000 -101.407393,40.001004,0.000000 -101.406760,39.567149,0.000000 -102.048802,39.562804,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Decatur<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.737845,39.566223,0.000000 -100.735049,39.999172,0.000000 -100.191112,40.000586,0.000000 -100.180911,40.000479,0.000000 -100.179398,39.560665,0.000000 -100.717574,39.564739,0.000000 -100.737845,39.566223,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Republic<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.927812,39.648158,0.000000 -97.929589,39.998453,0.000000 -97.816589,39.999729,0.000000 -97.361912,39.997380,0.000000 -97.360938,39.649743,0.000000 -97.927812,39.648158,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Doniphan<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.329912,39.647781,0.000000 -95.329701,39.992595,0.000000 -95.308697,39.999408,0.000000 -95.240962,39.942106,0.000000 -95.193963,39.910180,0.000000 -95.100723,39.869865,0.000000 -95.063246,39.866538,0.000000 -94.965024,39.900824,0.000000 -94.938244,39.896082,0.000000 -94.936511,39.849386,0.000000 -94.923876,39.833132,0.000000 -94.888505,39.817400,0.000000 -94.899324,39.793775,0.000000 -94.877068,39.760679,0.000000 -94.871185,39.754118,0.000000 -94.877861,39.739306,0.000000 -94.978571,39.684988,0.000000 -95.028292,39.661913,0.000000 -95.056017,39.625690,0.000000 -95.095729,39.621918,0.000000 -95.119267,39.646748,0.000000 -95.329912,39.647781,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Smith<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-98.504698,39.560340,0.000000 -99.041326,39.560252,0.000000 -99.062178,39.561568,0.000000 -99.064747,39.998338,0.000000 -98.720632,39.998461,0.000000 -98.504479,39.997130,0.000000 -98.504698,39.560340,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Jewell<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.929818,39.559301,0.000000 -98.486844,39.559005,0.000000 -98.504698,39.560340,0.000000 -98.504479,39.997130,0.000000 -98.264166,39.998435,0.000000 -97.929589,39.998453,0.000000 -97.927812,39.648158,0.000000 -97.929818,39.559301,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Washington<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.801448,39.562809,0.000000 -96.951445,39.562004,0.000000 -97.359861,39.564402,0.000000 -97.360938,39.649743,0.000000 -97.361912,39.997380,0.000000 -96.908288,39.996155,0.000000 -96.801420,39.994476,0.000000 -96.801448,39.562809,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Nemaha<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.234647,39.559731,0.000000 -96.240599,39.994503,0.000000 -96.001254,39.995159,0.000000 -95.780700,39.993489,0.000000 -95.783734,39.646180,0.000000 -95.786236,39.561824,0.000000 -96.030379,39.558219,0.000000 -96.234647,39.559731,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Marshall<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.801448,39.562809,0.000000 -96.801420,39.994476,0.000000 -96.454038,39.994173,0.000000 -96.240599,39.994503,0.000000 -96.234647,39.559731,0.000000 -96.578192,39.560114,0.000000 -96.801448,39.562809,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Brown<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.783734,39.646180,0.000000 -95.780700,39.993489,0.000000 -95.329701,39.992595,0.000000 -95.329912,39.647781,0.000000 -95.549689,39.646623,0.000000 -95.783734,39.646180,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Cloud<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.361984,39.308566,0.000000 -97.922836,39.302806,0.000000 -97.922135,39.557721,0.000000 -97.929818,39.559301,0.000000 -97.927812,39.648158,0.000000 -97.360938,39.649743,0.000000 -97.359861,39.564402,0.000000 -97.361984,39.308566,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Atchison<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.565312,39.413453,0.000000 -95.549689,39.646623,0.000000 -95.329912,39.647781,0.000000 -95.119267,39.646748,0.000000 -95.095729,39.621918,0.000000 -95.056017,39.625690,0.000000 -95.053613,39.586776,0.000000 -95.108988,39.560692,0.000000 -95.102037,39.532849,0.000000 -95.047599,39.485329,0.000000 -94.986204,39.439462,0.000000 -94.958494,39.411447,0.000000 -95.169741,39.413069,0.000000 -95.565312,39.413453,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Jackson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.586323,39.215075,0.000000 -96.030254,39.213143,0.000000 -96.030379,39.558219,0.000000 -95.786236,39.561824,0.000000 -95.783734,39.646180,0.000000 -95.549689,39.646623,0.000000 -95.565312,39.413453,0.000000 -95.582029,39.413339,0.000000 -95.586323,39.215075,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Sherman<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.473160,39.127958,0.000000 -102.047875,39.126753,0.000000 -102.048802,39.562804,0.000000 -101.406760,39.567149,0.000000 -101.385283,39.565318,0.000000 -101.387159,39.129271,0.000000 -101.473160,39.127958,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Thomas<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.715739,39.129113,0.000000 -100.808278,39.128758,0.000000 -101.387159,39.129271,0.000000 -101.385283,39.565318,0.000000 -100.737845,39.566223,0.000000 -100.717574,39.564739,0.000000 -100.715739,39.129113,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Sheridan<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.161809,39.125289,0.000000 -100.715739,39.129113,0.000000 -100.717574,39.564739,0.000000 -100.179398,39.560665,0.000000 -100.163910,39.559143,0.000000 -100.161809,39.125289,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Clay<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.361127,39.125702,0.000000 -97.361984,39.308566,0.000000 -97.359861,39.564402,0.000000 -96.951445,39.562004,0.000000 -96.949364,39.216125,0.000000 -96.957413,39.125661,0.000000 -97.361127,39.125702,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Riley<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.578192,39.560114,0.000000 -96.707663,39.445779,0.000000 -96.713399,39.395162,0.000000 -96.633531,39.297665,0.000000 -96.520390,39.176995,0.000000 -96.458568,39.168603,0.000000 -96.445644,39.183511,0.000000 -96.404444,39.177747,0.000000 -96.387270,39.168416,0.000000 -96.391648,39.038779,0.000000 -96.491435,39.036944,0.000000 -96.493549,39.066531,0.000000 -96.698060,39.069620,0.000000 -96.840642,39.085489,0.000000 -96.844266,39.214050,0.000000 -96.949364,39.216125,0.000000 -96.951445,39.562004,0.000000 -96.801448,39.562809,0.000000 -96.578192,39.560114,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Rooks<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.588700,39.129136,0.000000 -99.602952,39.128446,0.000000 -99.601812,39.557774,0.000000 -99.062178,39.561568,0.000000 -99.041326,39.560252,0.000000 -99.041697,39.129043,0.000000 -99.588700,39.129136,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Osborne<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.041697,39.129043,0.000000 -99.041326,39.560252,0.000000 -98.504698,39.560340,0.000000 -98.486844,39.559005,0.000000 -98.488212,39.211641,0.000000 -98.489928,39.127337,0.000000 -99.027498,39.127857,0.000000 -99.041697,39.129043,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Pottawatomie<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.578192,39.560114,0.000000 -96.234647,39.559731,0.000000 -96.030379,39.558219,0.000000 -96.030254,39.213143,0.000000 -96.032969,39.122008,0.000000 -96.071010,39.161360,0.000000 -96.125615,39.186433,0.000000 -96.231903,39.204598,0.000000 -96.316148,39.182267,0.000000 -96.387270,39.168416,0.000000 -96.404444,39.177747,0.000000 -96.445644,39.183511,0.000000 -96.458568,39.168603,0.000000 -96.520390,39.176995,0.000000 -96.633531,39.297665,0.000000 -96.713399,39.395162,0.000000 -96.707663,39.445779,0.000000 -96.578192,39.560114,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Graham<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.161809,39.125289,0.000000 -100.163910,39.559143,0.000000 -99.625045,39.559482,0.000000 -99.601812,39.557774,0.000000 -99.602952,39.128446,0.000000 -100.149365,39.124701,0.000000 -100.161809,39.125289,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Mitchell<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-98.488212,39.211641,0.000000 -98.486844,39.559005,0.000000 -97.929818,39.559301,0.000000 -97.922135,39.557721,0.000000 -97.922836,39.302806,0.000000 -97.924858,39.213508,0.000000 -98.488212,39.211641,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Jefferson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.181706,39.037542,0.000000 -95.348213,39.034104,0.000000 -95.382744,39.053978,0.000000 -95.433358,39.066456,0.000000 -95.496104,39.054520,0.000000 -95.540447,39.063927,0.000000 -95.588979,39.058525,0.000000 -95.599195,39.093525,0.000000 -95.586934,39.141990,0.000000 -95.586323,39.215075,0.000000 -95.582029,39.413339,0.000000 -95.565312,39.413453,0.000000 -95.169741,39.413069,0.000000 -95.181706,39.037542,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Leavenworth<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-94.904982,38.992238,0.000000 -95.051936,38.974533,0.000000 -95.127217,38.968433,0.000000 -95.179174,38.964282,0.000000 -95.181706,39.037542,0.000000 -95.169741,39.413069,0.000000 -94.958494,39.411447,0.000000 -94.925748,39.381266,0.000000 -94.911344,39.340122,0.000000 -94.907681,39.323028,0.000000 -94.881108,39.286046,0.000000 -94.820819,39.211005,0.000000 -94.790049,39.196883,0.000000 -94.902959,39.197497,0.000000 -94.904982,38.992238,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Ottawa<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.925547,38.958619,0.000000 -97.924858,39.213508,0.000000 -97.922836,39.302806,0.000000 -97.361984,39.308566,0.000000 -97.361127,39.125702,0.000000 -97.363775,38.954299,0.000000 -97.925547,38.958619,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Geary<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.890502,38.860918,0.000000 -96.921142,38.862963,0.000000 -96.923392,38.968318,0.000000 -96.957657,38.960502,0.000000 -96.957413,39.125661,0.000000 -96.949364,39.216125,0.000000 -96.844266,39.214050,0.000000 -96.840642,39.085489,0.000000 -96.698060,39.069620,0.000000 -96.493549,39.066531,0.000000 -96.491435,39.036944,0.000000 -96.492116,38.863597,0.000000 -96.890502,38.860918,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Shawnee<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.941116,38.863232,0.000000 -95.942825,39.088951,0.000000 -95.972741,39.109355,0.000000 -96.032969,39.122008,0.000000 -96.030254,39.213143,0.000000 -95.586323,39.215075,0.000000 -95.586934,39.141990,0.000000 -95.599195,39.093525,0.000000 -95.588979,39.058525,0.000000 -95.540447,39.063927,0.000000 -95.496104,39.054520,0.000000 -95.496624,38.861534,0.000000 -95.941116,38.863232,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Lincoln<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.926738,38.862043,0.000000 -98.482132,38.858237,0.000000 -98.481726,39.124869,0.000000 -98.489928,39.127337,0.000000 -98.488212,39.211641,0.000000 -97.924858,39.213508,0.000000 -97.925547,38.958619,0.000000 -97.926738,38.862043,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Wabaunsee<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.942040,38.734786,0.000000 -96.351656,38.732561,0.000000 -96.379245,38.735067,0.000000 -96.381647,38.818683,0.000000 -96.492681,38.820957,0.000000 -96.492116,38.863597,0.000000 -96.491435,39.036944,0.000000 -96.391648,39.038779,0.000000 -96.387270,39.168416,0.000000 -96.316148,39.182267,0.000000 -96.231903,39.204598,0.000000 -96.125615,39.186433,0.000000 -96.071010,39.161360,0.000000 -96.032969,39.122008,0.000000 -95.972741,39.109355,0.000000 -95.942825,39.088951,0.000000 -95.941116,38.863232,0.000000 -95.942040,38.734786,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Wyandotte<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-94.904982,38.992238,0.000000 -94.902959,39.197497,0.000000 -94.790049,39.196883,0.000000 -94.612653,39.151649,0.000000 -94.608137,39.112801,0.000000 -94.609281,39.044668,0.000000 -94.868726,39.044827,0.000000 -94.884123,39.038834,0.000000 -94.904982,38.992238,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Logan<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.122510,38.695454,0.000000 -101.478630,38.694666,0.000000 -101.473160,39.127958,0.000000 -101.387159,39.129271,0.000000 -100.808278,39.128758,0.000000 -100.814732,38.696395,0.000000 -101.122510,38.695454,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Trego<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.595438,38.691320,0.000000 -100.150828,38.694552,0.000000 -100.149365,39.124701,0.000000 -99.602952,39.128446,0.000000 -99.588700,39.129136,0.000000 -99.595438,38.691320,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Ellis<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.595438,38.691320,0.000000 -99.588700,39.129136,0.000000 -99.041697,39.129043,0.000000 -99.027498,39.127857,0.000000 -99.033963,38.693177,0.000000 -99.583109,38.689318,0.000000 -99.595438,38.691320,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Gove<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.150828,38.694552,0.000000 -100.242834,38.693709,0.000000 -100.683259,38.694686,0.000000 -100.814732,38.696395,0.000000 -100.808278,39.128758,0.000000 -100.715739,39.129113,0.000000 -100.161809,39.125289,0.000000 -100.149365,39.124701,0.000000 -100.150828,38.694552,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Wallace<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.563524,38.693293,0.000000 -102.047568,38.692551,0.000000 -102.048973,39.037003,0.000000 -102.047875,39.126753,0.000000 -101.473160,39.127958,0.000000 -101.478630,38.694666,0.000000 -101.563524,38.693293,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Russell<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.033963,38.693177,0.000000 -99.027498,39.127857,0.000000 -98.489928,39.127337,0.000000 -98.481726,39.124869,0.000000 -98.482132,38.858237,0.000000 -98.482104,38.687732,0.000000 -99.025166,38.691643,0.000000 -99.033963,38.693177,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Dickinson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.363775,38.954299,0.000000 -97.361127,39.125702,0.000000 -96.957413,39.125661,0.000000 -96.957657,38.960502,0.000000 -96.923392,38.968318,0.000000 -96.921142,38.862963,0.000000 -96.890502,38.860918,0.000000 -96.890731,38.810562,0.000000 -96.919808,38.808914,0.000000 -96.924265,38.596728,0.000000 -97.363893,38.598181,0.000000 -97.363775,38.954299,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Douglas<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.054300,38.733891,0.000000 -95.495024,38.730212,0.000000 -95.496624,38.861534,0.000000 -95.496104,39.054520,0.000000 -95.433358,39.066456,0.000000 -95.382744,39.053978,0.000000 -95.348213,39.034104,0.000000 -95.181706,39.037542,0.000000 -95.179174,38.964282,0.000000 -95.127217,38.968433,0.000000 -95.051936,38.974533,0.000000 -95.054300,38.733891,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Johnson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-94.613148,38.737222,0.000000 -95.054300,38.733891,0.000000 -95.051936,38.974533,0.000000 -94.904982,38.992238,0.000000 -94.884123,39.038834,0.000000 -94.868726,39.044827,0.000000 -94.609281,39.044668,0.000000 -94.612470,38.837109,0.000000 -94.613148,38.737222,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Saline<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.363775,38.954299,0.000000 -97.363893,38.598181,0.000000 -97.924733,38.601647,0.000000 -97.926738,38.862043,0.000000 -97.925547,38.958619,0.000000 -97.363775,38.954299,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Morris<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.815666,38.515965,0.000000 -96.921466,38.519037,0.000000 -96.924265,38.596728,0.000000 -96.919808,38.808914,0.000000 -96.890731,38.810562,0.000000 -96.890502,38.860918,0.000000 -96.492116,38.863597,0.000000 -96.492681,38.820957,0.000000 -96.381647,38.818683,0.000000 -96.379245,38.735067,0.000000 -96.351656,38.732561,0.000000 -96.352848,38.514744,0.000000 -96.815666,38.515965,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Osage<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.943932,38.430694,0.000000 -95.952546,38.689861,0.000000 -95.942040,38.734786,0.000000 -95.941116,38.863232,0.000000 -95.496624,38.861534,0.000000 -95.495024,38.730212,0.000000 -95.496138,38.688030,0.000000 -95.509894,38.685974,0.000000 -95.504379,38.429585,0.000000 -95.943932,38.430694,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Ellsworth<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.923628,38.515893,0.000000 -98.475683,38.515258,0.000000 -98.475580,38.688480,0.000000 -98.482104,38.687732,0.000000 -98.482132,38.858237,0.000000 -97.926738,38.862043,0.000000 -97.924733,38.601647,0.000000 -97.923628,38.515893,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Miami<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.061229,38.387649,0.000000 -95.054300,38.733891,0.000000 -94.613148,38.737222,0.000000 -94.618718,38.471474,0.000000 -94.619054,38.392032,0.000000 -95.061229,38.387649,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Lyon<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.943932,38.430694,0.000000 -95.954461,38.167400,0.000000 -96.352797,38.163887,0.000000 -96.352848,38.514744,0.000000 -96.351656,38.732561,0.000000 -95.942040,38.734786,0.000000 -95.952546,38.689861,0.000000 -95.943932,38.430694,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Franklin<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.061229,38.387649,0.000000 -95.501923,38.387685,0.000000 -95.504379,38.429585,0.000000 -95.509894,38.685974,0.000000 -95.496138,38.688030,0.000000 -95.495024,38.730212,0.000000 -95.054300,38.733891,0.000000 -95.061229,38.387649,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Scott<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.669983,38.255860,0.000000 -101.099583,38.255294,0.000000 -101.116566,38.256705,0.000000 -101.122510,38.695454,0.000000 -100.814732,38.696395,0.000000 -100.683259,38.694686,0.000000 -100.669983,38.255860,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Wichita<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.116566,38.256705,0.000000 -101.539126,38.255484,0.000000 -101.560809,38.256834,0.000000 -101.563524,38.693293,0.000000 -101.478630,38.694666,0.000000 -101.122510,38.695454,0.000000 -101.116566,38.256705,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Lane<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.239855,38.251291,0.000000 -100.669983,38.255860,0.000000 -100.683259,38.694686,0.000000 -100.242834,38.693709,0.000000 -100.239855,38.251291,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Ness<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.239855,38.251291,0.000000 -100.242834,38.693709,0.000000 -100.150828,38.694552,0.000000 -99.595438,38.691320,0.000000 -99.583109,38.689318,0.000000 -99.581144,38.337963,0.000000 -99.580474,38.251366,0.000000 -100.222292,38.250204,0.000000 -100.239855,38.251291,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Greeley<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.560809,38.256834,0.000000 -102.046061,38.253822,0.000000 -102.045550,38.263344,0.000000 -102.047584,38.615499,0.000000 -102.047568,38.692551,0.000000 -101.563524,38.693293,0.000000 -101.560809,38.256834,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Rush<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.581144,38.337963,0.000000 -99.583109,38.689318,0.000000 -99.033963,38.693177,0.000000 -99.025166,38.691643,0.000000 -99.025758,38.343454,0.000000 -99.581144,38.337963,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Barton<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.025758,38.343454,0.000000 -99.025166,38.691643,0.000000 -98.482104,38.687732,0.000000 -98.475580,38.688480,0.000000 -98.475683,38.515258,0.000000 -98.480714,38.250562,0.000000 -98.908620,38.253084,0.000000 -99.025270,38.253675,0.000000 -99.025758,38.343454,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = McPherson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.921159,38.169310,0.000000 -97.923628,38.515893,0.000000 -97.924733,38.601647,0.000000 -97.363893,38.598181,0.000000 -97.365693,38.170444,0.000000 -97.699802,38.167639,0.000000 -97.921159,38.169310,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Marion<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.835484,38.085177,0.000000 -97.148336,38.080806,0.000000 -97.151508,38.165763,0.000000 -97.365693,38.170444,0.000000 -97.363893,38.598181,0.000000 -96.924265,38.596728,0.000000 -96.921466,38.519037,0.000000 -96.815666,38.515965,0.000000 -96.813969,38.340290,0.000000 -96.834012,38.339238,0.000000 -96.835484,38.085177,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Chase<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.518149,38.085388,0.000000 -96.835484,38.085177,0.000000 -96.834012,38.339238,0.000000 -96.813969,38.340290,0.000000 -96.815666,38.515965,0.000000 -96.352848,38.514744,0.000000 -96.352797,38.163887,0.000000 -96.355232,38.087278,0.000000 -96.518149,38.085388,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Rice<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-98.468926,38.166833,0.000000 -98.480714,38.250562,0.000000 -98.475683,38.515258,0.000000 -97.923628,38.515893,0.000000 -97.921159,38.169310,0.000000 -98.468926,38.166833,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Coffey<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.512491,38.035347,0.000000 -95.955629,38.035340,0.000000 -95.954461,38.167400,0.000000 -95.943932,38.430694,0.000000 -95.504379,38.429585,0.000000 -95.501923,38.387685,0.000000 -95.499643,38.250429,0.000000 -95.511445,38.249643,0.000000 -95.512491,38.035347,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Linn<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-94.616735,38.030388,0.000000 -95.070800,38.030649,0.000000 -95.071850,38.253289,0.000000 -95.062252,38.255517,0.000000 -95.061229,38.387649,0.000000 -94.619054,38.392032,0.000000 -94.617330,38.055785,0.000000 -94.616735,38.030388,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Anderson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.070800,38.030649,0.000000 -95.512491,38.035347,0.000000 -95.511445,38.249643,0.000000 -95.499643,38.250429,0.000000 -95.501923,38.387685,0.000000 -95.061229,38.387649,0.000000 -95.062252,38.255517,0.000000 -95.071850,38.253289,0.000000 -95.070800,38.030649,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Pawnee<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.565187,38.075235,0.000000 -99.568801,38.249371,0.000000 -99.580474,38.251366,0.000000 -99.581144,38.337963,0.000000 -99.025758,38.343454,0.000000 -99.025270,38.253675,0.000000 -98.908620,38.253084,0.000000 -98.913391,38.001091,0.000000 -99.013997,37.997734,0.000000 -99.344142,37.995381,0.000000 -99.345842,38.077015,0.000000 -99.565187,38.075235,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Hamilton<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.520820,37.731529,0.000000 -102.043977,37.734399,0.000000 -102.046061,38.253822,0.000000 -101.560809,38.256834,0.000000 -101.539126,38.255484,0.000000 -101.537154,37.824443,0.000000 -101.523169,37.823089,0.000000 -101.520820,37.731529,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Kearny<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.086134,37.731288,0.000000 -101.520820,37.731529,0.000000 -101.523169,37.823089,0.000000 -101.537154,37.824443,0.000000 -101.539126,38.255484,0.000000 -101.116566,38.256705,0.000000 -101.099583,38.255294,0.000000 -101.096112,37.822429,0.000000 -101.088544,37.821044,0.000000 -101.086134,37.731288,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Finney<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.644995,37.733979,0.000000 -101.086134,37.731288,0.000000 -101.088544,37.821044,0.000000 -101.096112,37.822429,0.000000 -101.099583,38.255294,0.000000 -100.669983,38.255860,0.000000 -100.239855,38.251291,0.000000 -100.222292,38.250204,0.000000 -100.224957,37.995488,0.000000 -100.653644,37.995123,0.000000 -100.644995,37.733979,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Stafford<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-98.471631,37.816819,0.000000 -99.009032,37.816270,0.000000 -99.016585,37.816876,0.000000 -99.013997,37.997734,0.000000 -98.913391,38.001091,0.000000 -98.908620,38.253084,0.000000 -98.480714,38.250562,0.000000 -98.468926,38.166833,0.000000 -98.471631,37.816819,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Hodgeman<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.225256,37.910726,0.000000 -100.224957,37.995488,0.000000 -100.222292,38.250204,0.000000 -99.580474,38.251366,0.000000 -99.568801,38.249371,0.000000 -99.565187,38.075235,0.000000 -99.564974,37.905230,0.000000 -100.225256,37.910726,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Harvey<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.697362,37.909008,0.000000 -97.699802,38.167639,0.000000 -97.365693,38.170444,0.000000 -97.151508,38.165763,0.000000 -97.148336,38.080806,0.000000 -97.147859,37.910640,0.000000 -97.697362,37.909008,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Reno<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-98.456731,37.725748,0.000000 -98.471631,37.816819,0.000000 -98.468926,38.166833,0.000000 -97.921159,38.169310,0.000000 -97.699802,38.167639,0.000000 -97.697362,37.909008,0.000000 -97.695067,37.727032,0.000000 -97.801187,37.724400,0.000000 -98.456731,37.725748,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Greenwood<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.515092,37.603242,0.000000 -96.518149,38.085388,0.000000 -96.355232,38.087278,0.000000 -96.352797,38.163887,0.000000 -95.954461,38.167400,0.000000 -95.955629,38.035340,0.000000 -95.956420,37.729371,0.000000 -95.959110,37.600090,0.000000 -96.515092,37.603242,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Butler<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.142759,37.473046,0.000000 -97.147859,37.910640,0.000000 -97.148336,38.080806,0.000000 -96.835484,38.085177,0.000000 -96.518149,38.085388,0.000000 -96.515092,37.603242,0.000000 -96.515160,37.472518,0.000000 -97.142759,37.473046,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Edwards<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.008407,37.731016,0.000000 -99.552072,37.730937,0.000000 -99.564974,37.905230,0.000000 -99.565187,38.075235,0.000000 -99.345842,38.077015,0.000000 -99.344142,37.995381,0.000000 -99.013997,37.997734,0.000000 -99.016585,37.816876,0.000000 -99.009032,37.816270,0.000000 -99.008407,37.731016,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Woodson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.523857,37.729365,0.000000 -95.956420,37.729371,0.000000 -95.955629,38.035340,0.000000 -95.512491,38.035347,0.000000 -95.512216,37.815535,0.000000 -95.523339,37.815172,0.000000 -95.523857,37.729365,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Allen<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.083147,37.727842,0.000000 -95.523857,37.729365,0.000000 -95.523339,37.815172,0.000000 -95.512216,37.815535,0.000000 -95.512491,38.035347,0.000000 -95.070800,38.030649,0.000000 -95.083147,37.727842,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Bourbon<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.083017,37.675591,0.000000 -95.083147,37.727842,0.000000 -95.070800,38.030649,0.000000 -94.616735,38.030388,0.000000 -94.619294,37.679869,0.000000 -95.083017,37.675591,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Gray<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.209045,37.469932,0.000000 -100.643958,37.471963,0.000000 -100.644995,37.733979,0.000000 -100.653644,37.995123,0.000000 -100.224957,37.995488,0.000000 -100.225256,37.910726,0.000000 -100.225569,37.825056,0.000000 -100.206976,37.822141,0.000000 -100.209045,37.469932,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Ford<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.209045,37.469932,0.000000 -100.206976,37.822141,0.000000 -100.225569,37.825056,0.000000 -100.225256,37.910726,0.000000 -99.564974,37.905230,0.000000 -99.552072,37.730937,0.000000 -99.555048,37.462584,0.000000 -100.106419,37.468799,0.000000 -100.209045,37.469932,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Sedgwick<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.800120,37.466262,0.000000 -97.801187,37.724400,0.000000 -97.695067,37.727032,0.000000 -97.697362,37.909008,0.000000 -97.147859,37.910640,0.000000 -97.142759,37.473046,0.000000 -97.800120,37.466262,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Pratt<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-98.456938,37.465893,0.000000 -99.003440,37.464292,0.000000 -99.008407,37.731016,0.000000 -99.009032,37.816270,0.000000 -98.471631,37.816819,0.000000 -98.456731,37.725748,0.000000 -98.456938,37.465893,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Stanton<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.553154,37.389289,0.000000 -102.042011,37.386279,0.000000 -102.044456,37.641474,0.000000 -102.043977,37.734399,0.000000 -101.520820,37.731529,0.000000 -101.520133,37.390208,0.000000 -101.553154,37.389289,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Haskell<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.081086,37.389032,0.000000 -101.086134,37.731288,0.000000 -100.644995,37.733979,0.000000 -100.643958,37.471963,0.000000 -100.646673,37.387207,0.000000 -101.067186,37.388532,0.000000 -101.081086,37.389032,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Grant<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.081086,37.389032,0.000000 -101.520133,37.390208,0.000000 -101.520820,37.731529,0.000000 -101.086134,37.731288,0.000000 -101.081086,37.389032,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Kiowa<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.005096,37.380435,0.000000 -99.541612,37.378490,0.000000 -99.555048,37.462584,0.000000 -99.552072,37.730937,0.000000 -99.008407,37.731016,0.000000 -99.003440,37.464292,0.000000 -99.005096,37.380435,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Wilson<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.526197,37.382950,0.000000 -95.957926,37.382548,0.000000 -95.959110,37.600090,0.000000 -95.956420,37.729371,0.000000 -95.523857,37.729365,0.000000 -95.526197,37.382950,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Neosho<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.084064,37.381252,0.000000 -95.518217,37.381192,0.000000 -95.526197,37.382950,0.000000 -95.523857,37.729365,0.000000 -95.083147,37.727842,0.000000 -95.083017,37.675591,0.000000 -95.084064,37.381252,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Kingman<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.800754,37.383717,0.000000 -98.349206,37.379689,0.000000 -98.454725,37.378301,0.000000 -98.456938,37.465893,0.000000 -98.456731,37.725748,0.000000 -97.801187,37.724400,0.000000 -97.800120,37.466262,0.000000 -97.800754,37.383717,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Crawford<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.071756,37.335618,0.000000 -95.084064,37.381252,0.000000 -95.083017,37.675591,0.000000 -94.619294,37.679869,0.000000 -94.618996,37.650374,0.000000 -94.618764,37.360766,0.000000 -94.618978,37.327732,0.000000 -95.071756,37.335618,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Elk<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.512971,37.297669,0.000000 -96.515160,37.472518,0.000000 -96.515092,37.603242,0.000000 -95.959110,37.600090,0.000000 -95.957926,37.382548,0.000000 -95.958188,37.293565,0.000000 -96.512971,37.297669,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Dry</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Sumner<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.804250,36.998568,0.000000 -97.800754,37.383717,0.000000 -97.800120,37.466262,0.000000 -97.142759,37.473046,0.000000 -97.137693,36.999808,0.000000 -97.465405,36.996467,0.000000 -97.804250,36.998568,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Cowley<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.748696,37.000166,0.000000 -97.137693,36.999808,0.000000 -97.142759,37.473046,0.000000 -96.515160,37.472518,0.000000 -96.512971,37.297669,0.000000 -96.519188,37.000578,0.000000 -96.748696,37.000166,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Meade<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.634246,36.997832,0.000000 -100.635114,37.384857,0.000000 -100.646673,37.387207,0.000000 -100.643958,37.471963,0.000000 -100.209045,37.469932,0.000000 -100.106419,37.468799,0.000000 -100.109189,37.383145,0.000000 -100.094730,37.381619,0.000000 -100.088574,36.997652,0.000000 -100.634246,36.997832,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Clark<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.544640,36.995463,0.000000 -99.999262,36.995418,0.000000 -100.088574,36.997652,0.000000 -100.094730,37.381619,0.000000 -100.109189,37.383145,0.000000 -100.106419,37.468799,0.000000 -99.555048,37.462584,0.000000 -99.541612,37.378490,0.000000 -99.544640,36.995463,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Barber<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-98.540220,36.998376,0.000000 -98.999516,36.998073,0.000000 -98.998802,37.378040,0.000000 -99.005096,37.380435,0.000000 -99.003440,37.464292,0.000000 -98.456938,37.465893,0.000000 -98.454725,37.378301,0.000000 -98.349206,37.379689,0.000000 -98.347144,36.999062,0.000000 -98.540220,36.998376,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Stevens<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-101.071604,36.997467,0.000000 -101.553676,36.996693,0.000000 -101.553154,37.389289,0.000000 -101.520133,37.390208,0.000000 -101.081086,37.389032,0.000000 -101.067186,37.388532,0.000000 -101.071604,36.997467,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Morton<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-102.024519,36.988876,0.000000 -102.037208,36.988994,0.000000 -102.042011,37.386279,0.000000 -101.553154,37.389289,0.000000 -101.553676,36.996693,0.000000 -102.024519,36.988876,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Seward<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-100.950587,36.996662,0.000000 -101.071604,36.997467,0.000000 -101.067186,37.388532,0.000000 -100.646673,37.387207,0.000000 -100.635114,37.384857,0.000000 -100.634246,36.997832,0.000000 -100.950587,36.996662,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Harper<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-97.804250,36.998568,0.000000 -98.104529,36.998671,0.000000 -98.347144,36.999062,0.000000 -98.349206,37.379689,0.000000 -97.800754,37.383717,0.000000 -97.804250,36.998568,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Montgomery<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.957961,37.000083,0.000000 -95.958188,37.293565,0.000000 -95.957926,37.382548,0.000000 -95.526197,37.382950,0.000000 -95.518217,37.381192,0.000000 -95.526019,37.001019,0.000000 -95.785749,36.998114,0.000000 -95.957961,37.000083,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Labette<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.526019,37.001019,0.000000 -95.518217,37.381192,0.000000 -95.084064,37.381252,0.000000 -95.071756,37.335618,0.000000 -95.071931,37.001478,0.000000 -95.406622,37.000616,0.000000 -95.526019,37.001019,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Comanche<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-99.437474,36.994558,0.000000 -99.544640,36.995463,0.000000 -99.541612,37.378490,0.000000 -99.005096,37.380435,0.000000 -98.998802,37.378040,0.000000 -98.999516,36.998073,0.000000 -99.437474,36.994558,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Cherokee<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-95.071931,37.001478,0.000000 -95.071756,37.335618,0.000000 -94.618978,37.327732,0.000000 -94.620664,37.060148,0.000000 -94.620380,36.997047,0.000000 -95.032745,37.000779,0.000000 -95.071931,37.001478,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Kansas<br>County = Chautauqua<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-96.006050,36.998334,0.000000 -96.519188,37.000578,0.000000 -96.512971,37.297669,0.000000 -95.958188,37.293565,0.000000 -95.957961,37.000083,0.000000 -96.006050,36.998334,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_PartiallyWet</styleUrl>
+  </Placemark>
+</Document>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{228A817A-EEDA-44A5-A6E0-BACD1ECB30BE}</ProjectGuid>
+    <ProjectGuid>{AFD35C9A-8324-4885-8C3F-C8491F45D982}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>XmlExtractor</RootNamespace>

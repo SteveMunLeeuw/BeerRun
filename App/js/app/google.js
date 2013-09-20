@@ -11,7 +11,7 @@ define(
 
                 var map = new google.maps.Map( mapCanvas, myOptions );	
                 var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://raw.github.com/SteveMunLeeuw/BeerRun/master/Data/NewYork.kml?a=3'
+                    url: 'https://raw.github.com/SteveMunLeeuw/BeerRun/master/Data/BeerRun.kml?a=3'
                 });
                 ctaLayer.setMap(map);
 

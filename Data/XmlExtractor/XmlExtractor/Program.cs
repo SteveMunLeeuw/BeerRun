@@ -11,14 +11,15 @@ namespace XmlExtractor
     {
         static void Main(string[] args)
         {
+            var state = "Kansas";
             var doc = XDocument.Load(@".\..\..\..\..\AllCounties.xml");
             var output = new XDocument(new XElement("Document"));
-            var placemarks = doc.Descendants("Placemark").Where(x => x.Element("description").Value.Contains("State = Mississippi"));
+            var placemarks = doc.Descendants("Placemark").Where(x => x.Element("description").Value.Contains(string.Format("State = {0}", state)));
             output.Element("Document").Add(placemarks);
 
             
 
-            output.Save(@".\..\..\..\..\ExtractedState.xml");
+            output.Save(string.Format(@".\..\..\..\..\{0}.xml", state));
             
         }
     }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlExtractor", "..\..\..\..\..\..\_Projects\XmlExtractor\XmlExtractor\XmlExtractor.csproj", "{AFD35C9A-8324-4885-8C3F-C8491F45D982}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlExtractor", ".\XmlExtractor\XmlExtractor.csproj", "{AFD35C9A-8324-4885-8C3F-C8491F45D982}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
