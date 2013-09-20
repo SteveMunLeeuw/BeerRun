@@ -15877,8 +15877,6 @@
     </Placemark>    
     <!--End New Jersey-->
 <!--Kansas-->
-    <?xml version="1.0" encoding="utf-8"?>
-    <Document>
       <Placemark>
         <description><![CDATA[State = Kansas<br>County = Norton<br>]]></description>
         <Polygon>
@@ -17034,7 +17032,6 @@
         </Polygon>
         <styleUrl>#County_PartiallyWet</styleUrl>
       </Placemark>
-    </Document>
 <!--End Kansas-->
   </Document>
 </kml>
