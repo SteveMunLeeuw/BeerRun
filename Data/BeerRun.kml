@@ -8735,6 +8735,20 @@
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
+
+    <Placemark>
+      <description><![CDATA[State = Kansas<br>County = Phillips<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.625045,39.559482,0.000000 -99.627859,40.002988,0.000000 -99.178201,39.999577,0.000000 -99.064747,39.998338,0.000000 -99.062178,39.561568,0.000000 -99.601812,39.557774,0.000000 -99.625045,39.559482,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+
+
     <Placemark>
       <description><![CDATA[Travis<br>]]></description>
       <Polygon>
@@ -15899,7 +15913,10 @@
         </Polygon>
         <styleUrl>#County_PartiallyWet</styleUrl>
       </Placemark>
-      <!--<Placemark>
+
+
+
+    <!--<Placemark>
         <description><![CDATA[State = Kansas<br>County = Rawlins<br>]]></description>
         <Polygon>
           <outerBoundaryIs>
