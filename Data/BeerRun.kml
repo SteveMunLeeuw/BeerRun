@@ -109,6 +109,977 @@
       </IconStyle>
     </Style>
 
+    <!--Ohio-->
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Lucas<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.763954,41.717042,0.000000 -83.482691,41.725130,0.000000 -83.153746,41.626090,0.000000 -83.407279,41.616565,0.000000 -83.571193,41.612107,0.000000 -83.605838,41.571798,0.000000 -83.691526,41.532214,0.000000 -83.714452,41.485618,0.000000 -83.815743,41.430178,0.000000 -83.870859,41.415163,0.000000 -83.872455,41.486957,0.000000 -83.868640,41.715993,0.000000 -83.763954,41.717042,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Fulton<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.359208,41.708039,0.000000 -83.868640,41.715993,0.000000 -83.872455,41.486957,0.000000 -84.331867,41.484670,0.000000 -84.331974,41.511057,0.000000 -84.374576,41.512876,0.000000 -84.384393,41.707150,0.000000 -84.359208,41.708039,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Geauga<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.000939,41.711916,0.000000 -81.004280,41.495599,0.000000 -81.006530,41.343848,0.000000 -81.377068,41.346334,0.000000 -81.379885,41.564282,0.000000 -81.285304,41.564381,0.000000 -81.286662,41.635209,0.000000 -81.093700,41.636664,0.000000 -81.092029,41.712125,0.000000 -81.000939,41.711916,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Williams<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.791897,41.427899,0.000000 -84.791370,41.530492,0.000000 -84.790377,41.697495,0.000000 -84.384393,41.707150,0.000000 -84.374576,41.512876,0.000000 -84.331974,41.511057,0.000000 -84.331867,41.484670,0.000000 -84.334132,41.425851,0.000000 -84.791897,41.427899,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Cuyahoga<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.377068,41.346334,0.000000 -81.585362,41.348035,0.000000 -81.586170,41.330293,0.000000 -81.548340,41.279261,0.000000 -81.556496,41.272188,0.000000 -81.675271,41.273816,0.000000 -81.870501,41.275013,0.000000 -81.868786,41.345941,0.000000 -81.967575,41.348888,0.000000 -81.961908,41.501919,0.000000 -81.738503,41.491155,0.000000 -81.478263,41.631716,0.000000 -81.476434,41.566327,0.000000 -81.379885,41.564282,0.000000 -81.377068,41.346334,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Ottawa<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.408963,41.497789,0.000000 -83.407279,41.616565,0.000000 -83.153746,41.626090,0.000000 -83.003433,41.538194,0.000000 -82.795831,41.537648,0.000000 -82.784707,41.507417,0.000000 -83.070398,41.456110,0.000000 -83.334139,41.454836,0.000000 -83.335765,41.496595,0.000000 -83.408963,41.497789,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Wood<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.416529,41.164604,0.000000 -83.870782,41.163652,0.000000 -83.870859,41.415163,0.000000 -83.815743,41.430178,0.000000 -83.714452,41.485618,0.000000 -83.691526,41.532214,0.000000 -83.605838,41.571798,0.000000 -83.571193,41.612107,0.000000 -83.407279,41.616565,0.000000 -83.408963,41.497789,0.000000 -83.415026,41.248783,0.000000 -83.416529,41.164604,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Lorain<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.165801,41.058790,0.000000 -82.330055,41.060849,0.000000 -82.336693,41.282765,0.000000 -82.341383,41.431501,0.000000 -82.015606,41.515310,0.000000 -81.961908,41.501919,0.000000 -81.967575,41.348888,0.000000 -81.868786,41.345941,0.000000 -81.870501,41.275013,0.000000 -81.967017,41.272586,0.000000 -81.967140,41.197175,0.000000 -82.070433,41.197155,0.000000 -82.069580,41.136769,0.000000 -82.164771,41.135594,0.000000 -82.165801,41.058790,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Sandusky<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.415026,41.248783,0.000000 -83.408963,41.497789,0.000000 -83.335765,41.496595,0.000000 -83.334139,41.454836,0.000000 -83.070398,41.456110,0.000000 -82.908932,41.429469,0.000000 -82.842814,41.426707,0.000000 -82.833894,41.284809,0.000000 -82.835252,41.254303,0.000000 -83.415026,41.248783,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Trumbull<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-80.999654,41.131527,0.000000 -81.006530,41.343848,0.000000 -81.004280,41.495599,0.000000 -80.523926,41.495102,0.000000 -80.519996,41.489289,0.000000 -80.522933,41.129628,0.000000 -80.999654,41.131527,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Henry<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.870782,41.163652,0.000000 -84.220969,41.160693,0.000000 -84.223261,41.422162,0.000000 -84.334132,41.425851,0.000000 -84.331867,41.484670,0.000000 -83.872455,41.486957,0.000000 -83.870859,41.415163,0.000000 -83.870782,41.163652,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Erie<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.336693,41.282765,0.000000 -82.833894,41.284809,0.000000 -82.842814,41.426707,0.000000 -82.908932,41.429469,0.000000 -82.716947,41.450525,0.000000 -82.548838,41.391338,0.000000 -82.341383,41.431501,0.000000 -82.336693,41.282765,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Defiance<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.334132,41.425851,0.000000 -84.223261,41.422162,0.000000 -84.220969,41.160693,0.000000 -84.332260,41.160240,0.000000 -84.333603,41.205661,0.000000 -84.443269,41.206569,0.000000 -84.445809,41.251018,0.000000 -84.791586,41.253133,0.000000 -84.790976,41.283818,0.000000 -84.791897,41.427899,0.000000 -84.334132,41.425851,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Summit<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.638168,40.912611,0.000000 -81.679521,40.984369,0.000000 -81.675271,41.273816,0.000000 -81.556496,41.272188,0.000000 -81.548340,41.279261,0.000000 -81.586170,41.330293,0.000000 -81.585362,41.348035,0.000000 -81.377068,41.346334,0.000000 -81.381608,40.984260,0.000000 -81.405908,40.983062,0.000000 -81.412670,40.907028,0.000000 -81.638168,40.912611,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Portage<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.080682,40.983991,0.000000 -81.381608,40.984260,0.000000 -81.377068,41.346334,0.000000 -81.006530,41.343848,0.000000 -80.999654,41.131527,0.000000 -81.002797,40.985700,0.000000 -81.080682,40.983991,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Huron<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.719680,40.990969,0.000000 -82.828480,40.994643,0.000000 -82.835252,41.254303,0.000000 -82.833894,41.284809,0.000000 -82.336693,41.282765,0.000000 -82.330055,41.060849,0.000000 -82.427060,41.060773,0.000000 -82.427578,40.989427,0.000000 -82.719680,40.990969,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Medina<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.679521,40.984369,0.000000 -82.127737,40.989771,0.000000 -82.165801,41.058790,0.000000 -82.164771,41.135594,0.000000 -82.069580,41.136769,0.000000 -82.070433,41.197155,0.000000 -81.967140,41.197175,0.000000 -81.967017,41.272586,0.000000 -81.870501,41.275013,0.000000 -81.675271,41.273816,0.000000 -81.679521,40.984369,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Seneca<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.104766,40.987784,0.000000 -83.416871,40.986391,0.000000 -83.416529,41.164604,0.000000 -83.415026,41.248783,0.000000 -82.835252,41.254303,0.000000 -82.828480,40.994643,0.000000 -82.850652,40.989623,0.000000 -83.104766,40.987784,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Paulding<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.387507,40.986679,0.000000 -84.790527,40.988341,0.000000 -84.791586,41.253133,0.000000 -84.445809,41.251018,0.000000 -84.443269,41.206569,0.000000 -84.333603,41.205661,0.000000 -84.332260,41.160240,0.000000 -84.332514,40.986008,0.000000 -84.387507,40.986679,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Hancock<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.508227,40.812562,0.000000 -83.873307,40.812495,0.000000 -83.872849,40.915725,0.000000 -83.870782,41.163652,0.000000 -83.416529,41.164604,0.000000 -83.416871,40.986391,0.000000 -83.450358,40.985738,0.000000 -83.506847,40.903989,0.000000 -83.508227,40.812562,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Putnam<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.872849,40.915725,0.000000 -83.986058,40.914095,0.000000 -84.106224,40.901998,0.000000 -84.106201,40.856069,0.000000 -84.329602,40.854718,0.000000 -84.332065,40.905522,0.000000 -84.384999,40.904488,0.000000 -84.387507,40.986679,0.000000 -84.332514,40.986008,0.000000 -84.332260,41.160240,0.000000 -84.220969,41.160693,0.000000 -83.870782,41.163652,0.000000 -83.872849,40.915725,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Mahoning<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-80.520924,40.897271,0.000000 -80.812372,40.899099,0.000000 -80.813768,40.929022,0.000000 -80.894087,40.928720,0.000000 -80.893866,40.898767,0.000000 -81.078332,40.901429,0.000000 -81.080682,40.983991,0.000000 -81.002797,40.985700,0.000000 -80.999654,41.131527,0.000000 -80.522933,41.129628,0.000000 -80.520924,40.897271,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Ashland<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.217380,40.570016,0.000000 -82.331740,40.558895,0.000000 -82.332144,40.725549,0.000000 -82.380761,40.725960,0.000000 -82.405863,40.808109,0.000000 -82.411106,40.989157,0.000000 -82.427578,40.989427,0.000000 -82.427060,41.060773,0.000000 -82.330055,41.060849,0.000000 -82.165801,41.058790,0.000000 -82.127737,40.989771,0.000000 -82.123403,40.671561,0.000000 -82.218394,40.667613,0.000000 -82.217380,40.570016,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Crawford<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.857105,40.704476,0.000000 -83.105321,40.702386,0.000000 -83.104766,40.987784,0.000000 -82.850652,40.989623,0.000000 -82.828480,40.994643,0.000000 -82.719680,40.990969,0.000000 -82.725951,40.712670,0.000000 -82.857105,40.704476,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Richland<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.622123,40.552932,0.000000 -82.618211,40.667096,0.000000 -82.622721,40.712792,0.000000 -82.725951,40.712670,0.000000 -82.719680,40.990969,0.000000 -82.427578,40.989427,0.000000 -82.411106,40.989157,0.000000 -82.405863,40.808109,0.000000 -82.380761,40.725960,0.000000 -82.332144,40.725549,0.000000 -82.331740,40.558895,0.000000 -82.389343,40.550781,0.000000 -82.622123,40.552932,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Wayne<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.642053,40.666849,0.000000 -82.123403,40.671561,0.000000 -82.127737,40.989771,0.000000 -81.679521,40.984369,0.000000 -81.638168,40.912611,0.000000 -81.642053,40.666849,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Van Wert<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.329602,40.854718,0.000000 -84.332387,40.814091,0.000000 -84.388540,40.815605,0.000000 -84.389373,40.686397,0.000000 -84.445251,40.686076,0.000000 -84.446861,40.727374,0.000000 -84.793061,40.728860,0.000000 -84.791023,40.937708,0.000000 -84.790527,40.988341,0.000000 -84.387507,40.986679,0.000000 -84.384999,40.904488,0.000000 -84.332065,40.905522,0.000000 -84.329602,40.854718,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Wyandot<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.105321,40.702386,0.000000 -83.297771,40.701461,0.000000 -83.298252,40.685077,0.000000 -83.417274,40.685034,0.000000 -83.433716,40.685629,0.000000 -83.485903,40.699537,0.000000 -83.488108,40.812150,0.000000 -83.508227,40.812562,0.000000 -83.506847,40.903989,0.000000 -83.450358,40.985738,0.000000 -83.416871,40.986391,0.000000 -83.104766,40.987784,0.000000 -83.105321,40.702386,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Stark<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.314706,40.647156,0.000000 -81.472611,40.651840,0.000000 -81.641862,40.632354,0.000000 -81.642053,40.666849,0.000000 -81.638168,40.912611,0.000000 -81.412670,40.907028,0.000000 -81.405908,40.983062,0.000000 -81.381608,40.984260,0.000000 -81.080682,40.983991,0.000000 -81.078332,40.901429,0.000000 -81.083392,40.724707,0.000000 -81.198069,40.724143,0.000000 -81.231595,40.715445,0.000000 -81.236455,40.646309,0.000000 -81.314706,40.647156,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Columbiana<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-80.855229,40.596605,0.000000 -80.852978,40.638871,0.000000 -80.913101,40.641346,0.000000 -80.911590,40.723540,0.000000 -81.083392,40.724707,0.000000 -81.078332,40.901429,0.000000 -80.893866,40.898767,0.000000 -80.894087,40.928720,0.000000 -80.813768,40.929022,0.000000 -80.812372,40.899099,0.000000 -80.520924,40.897271,0.000000 -80.520306,40.854169,0.000000 -80.522000,40.637203,0.000000 -80.574416,40.615974,0.000000 -80.611550,40.620063,0.000000 -80.637338,40.613982,0.000000 -80.667728,40.582137,0.000000 -80.739577,40.584181,0.000000 -80.738882,40.595541,0.000000 -80.855229,40.596605,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Allen<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.878593,40.641294,0.000000 -84.102867,40.643898,0.000000 -84.213901,40.655796,0.000000 -84.214870,40.685299,0.000000 -84.389373,40.686397,0.000000 -84.388540,40.815605,0.000000 -84.332387,40.814091,0.000000 -84.329602,40.854718,0.000000 -84.106201,40.856069,0.000000 -84.106224,40.901998,0.000000 -83.986058,40.914095,0.000000 -83.872849,40.915725,0.000000 -83.873307,40.812495,0.000000 -83.878593,40.641294,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Hardin<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.421272,40.499896,0.000000 -83.514972,40.497744,0.000000 -83.516536,40.509031,0.000000 -83.877586,40.528611,0.000000 -83.878593,40.641294,0.000000 -83.873307,40.812495,0.000000 -83.508227,40.812562,0.000000 -83.488108,40.812150,0.000000 -83.485903,40.699537,0.000000 -83.433716,40.685629,0.000000 -83.417274,40.685034,0.000000 -83.414779,40.523826,0.000000 -83.421272,40.499896,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Mercer<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.445251,40.686076,0.000000 -84.440244,40.367575,0.000000 -84.426709,40.352861,0.000000 -84.794556,40.353051,0.000000 -84.793252,40.588738,0.000000 -84.793061,40.728860,0.000000 -84.446861,40.727374,0.000000 -84.445251,40.686076,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Carroll<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-80.940052,40.421425,0.000000 -81.268118,40.431592,0.000000 -81.261778,40.563402,0.000000 -81.318077,40.563082,0.000000 -81.314706,40.647156,0.000000 -81.236455,40.646309,0.000000 -81.231595,40.715445,0.000000 -81.198069,40.724143,0.000000 -81.083392,40.724707,0.000000 -80.911590,40.723540,0.000000 -80.913101,40.641346,0.000000 -80.852978,40.638871,0.000000 -80.855229,40.596605,0.000000 -80.853788,40.553076,0.000000 -80.916169,40.553679,0.000000 -80.937518,40.469147,0.000000 -80.940052,40.421425,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Morrow<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.737865,40.347443,0.000000 -82.924739,40.357724,0.000000 -82.920383,40.419685,0.000000 -83.019599,40.419933,0.000000 -83.019966,40.440361,0.000000 -83.013893,40.486961,0.000000 -82.956487,40.496265,0.000000 -82.955901,40.646658,0.000000 -82.855624,40.644571,0.000000 -82.857105,40.704476,0.000000 -82.725951,40.712670,0.000000 -82.622721,40.712792,0.000000 -82.618211,40.667096,0.000000 -82.622123,40.552932,0.000000 -82.630027,40.528083,0.000000 -82.640898,40.343255,0.000000 -82.737865,40.347443,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Marion<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.246140,40.446180,0.000000 -83.245240,40.502561,0.000000 -83.421272,40.499896,0.000000 -83.414779,40.523826,0.000000 -83.417274,40.685034,0.000000 -83.298252,40.685077,0.000000 -83.297771,40.701461,0.000000 -83.105321,40.702386,0.000000 -82.857105,40.704476,0.000000 -82.855624,40.644571,0.000000 -82.955901,40.646658,0.000000 -82.956487,40.496265,0.000000 -83.013893,40.486961,0.000000 -83.019966,40.440361,0.000000 -83.246140,40.446180,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Auglaize<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.877586,40.528611,0.000000 -83.987369,40.529392,0.000000 -83.989673,40.481544,0.000000 -84.002857,40.479957,0.000000 -84.329364,40.479563,0.000000 -84.331782,40.378496,0.000000 -84.425427,40.377027,0.000000 -84.426709,40.352861,0.000000 -84.440244,40.367575,0.000000 -84.445251,40.686076,0.000000 -84.389373,40.686397,0.000000 -84.214870,40.685299,0.000000 -84.213901,40.655796,0.000000 -84.102867,40.643898,0.000000 -83.878593,40.641294,0.000000 -83.877586,40.528611,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Holmes<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.177634,40.453888,0.000000 -82.175248,40.574304,0.000000 -82.217380,40.570016,0.000000 -82.218394,40.667613,0.000000 -82.123403,40.671561,0.000000 -81.642053,40.666849,0.000000 -81.641862,40.632354,0.000000 -81.654992,40.628745,0.000000 -81.662926,40.443273,0.000000 -81.704012,40.442823,0.000000 -82.177634,40.453888,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Tuscarawas<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.613934,40.212489,0.000000 -81.607350,40.360210,0.000000 -81.709512,40.361843,0.000000 -81.704012,40.442823,0.000000 -81.662926,40.443273,0.000000 -81.654992,40.628745,0.000000 -81.641862,40.632354,0.000000 -81.472611,40.651840,0.000000 -81.314706,40.647156,0.000000 -81.318077,40.563082,0.000000 -81.261778,40.563402,0.000000 -81.268118,40.431592,0.000000 -81.268393,40.299521,0.000000 -81.322075,40.299269,0.000000 -81.329270,40.208286,0.000000 -81.613934,40.212489,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Jefferson<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-80.702065,40.154090,0.000000 -80.877795,40.153131,0.000000 -80.858947,40.418618,0.000000 -80.940052,40.421425,0.000000 -80.937518,40.469147,0.000000 -80.916169,40.553679,0.000000 -80.853788,40.553076,0.000000 -80.855229,40.596605,0.000000 -80.738882,40.595541,0.000000 -80.739577,40.584181,0.000000 -80.667728,40.582137,0.000000 -80.633440,40.539204,0.000000 -80.601830,40.480539,0.000000 -80.627848,40.398227,0.000000 -80.609247,40.373275,0.000000 -80.604517,40.306245,0.000000 -80.614688,40.276502,0.000000 -80.650113,40.245680,0.000000 -80.678557,40.194151,0.000000 -80.702065,40.154090,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Knox<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.742755,40.274125,0.000000 -82.737865,40.347443,0.000000 -82.640898,40.343255,0.000000 -82.630027,40.528083,0.000000 -82.622123,40.552932,0.000000 -82.389343,40.550781,0.000000 -82.331740,40.558895,0.000000 -82.217380,40.570016,0.000000 -82.175248,40.574304,0.000000 -82.177634,40.453888,0.000000 -82.191403,40.231361,0.000000 -82.476132,40.241332,0.000000 -82.473943,40.261851,0.000000 -82.742755,40.274125,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Logan<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.544673,40.226872,0.000000 -83.780016,40.240358,0.000000 -83.779841,40.258996,0.000000 -84.009186,40.270994,0.000000 -84.002857,40.479957,0.000000 -83.989673,40.481544,0.000000 -83.987369,40.529392,0.000000 -83.877586,40.528611,0.000000 -83.516536,40.509031,0.000000 -83.514972,40.497744,0.000000 -83.544673,40.226872,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Union<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.499565,40.113627,0.000000 -83.489900,40.221307,0.000000 -83.544673,40.226872,0.000000 -83.514972,40.497744,0.000000 -83.421272,40.499896,0.000000 -83.245240,40.502561,0.000000 -83.246140,40.446180,0.000000 -83.249848,40.244758,0.000000 -83.169378,40.242039,0.000000 -83.170170,40.137986,0.000000 -83.205687,40.107308,0.000000 -83.499565,40.113627,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Shelby<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.020164,40.179527,0.000000 -84.248572,40.196125,0.000000 -84.424312,40.191131,0.000000 -84.426709,40.352861,0.000000 -84.425427,40.377027,0.000000 -84.331782,40.378496,0.000000 -84.329364,40.479563,0.000000 -84.002857,40.479957,0.000000 -84.009186,40.270994,0.000000 -84.020164,40.179527,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Coshocton<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.182476,40.159507,0.000000 -82.191403,40.231361,0.000000 -82.177634,40.453888,0.000000 -81.704012,40.442823,0.000000 -81.709512,40.361843,0.000000 -81.607350,40.360210,0.000000 -81.613934,40.212489,0.000000 -81.662764,40.212699,0.000000 -81.666625,40.144492,0.000000 -81.711197,40.144828,0.000000 -82.182476,40.159507,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Delaware<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.170170,40.137986,0.000000 -83.169378,40.242039,0.000000 -83.249848,40.244758,0.000000 -83.246140,40.446180,0.000000 -83.019966,40.440361,0.000000 -83.019599,40.419933,0.000000 -82.920383,40.419685,0.000000 -82.924739,40.357724,0.000000 -82.737865,40.347443,0.000000 -82.742755,40.274125,0.000000 -82.756396,40.123240,0.000000 -83.170170,40.137986,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Harrison<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-80.877795,40.153131,0.000000 -81.104705,40.164085,0.000000 -81.219587,40.161655,0.000000 -81.331148,40.164666,0.000000 -81.329270,40.208286,0.000000 -81.322075,40.299269,0.000000 -81.268393,40.299521,0.000000 -81.268118,40.431592,0.000000 -80.940052,40.421425,0.000000 -80.858947,40.418618,0.000000 -80.877795,40.153131,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Darke<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.482792,39.918764,0.000000 -84.806150,39.917167,0.000000 -84.803564,40.013991,0.000000 -84.795388,40.319501,0.000000 -84.794556,40.353051,0.000000 -84.426709,40.352861,0.000000 -84.424312,40.191131,0.000000 -84.419733,39.919532,0.000000 -84.482792,39.918764,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Licking<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.459739,39.918254,0.000000 -82.782053,39.932353,0.000000 -82.756396,40.123240,0.000000 -82.742755,40.274125,0.000000 -82.473943,40.261851,0.000000 -82.476132,40.241332,0.000000 -82.191403,40.231361,0.000000 -82.182476,40.159507,0.000000 -82.199085,39.944621,0.000000 -82.229695,39.944380,0.000000 -82.230398,39.909400,0.000000 -82.417005,39.916756,0.000000 -82.418287,39.926693,0.000000 -82.458000,39.927856,0.000000 -82.459739,39.918254,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Champaign<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.031881,40.037121,0.000000 -84.020164,40.179527,0.000000 -84.009186,40.270994,0.000000 -83.779841,40.258996,0.000000 -83.780016,40.240358,0.000000 -83.544673,40.226872,0.000000 -83.489900,40.221307,0.000000 -83.499565,40.113627,0.000000 -83.510550,40.007705,0.000000 -84.031881,40.037121,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Guernsey<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.229859,39.942644,0.000000 -81.253038,39.949667,0.000000 -81.374907,39.949599,0.000000 -81.570990,39.892120,0.000000 -81.573715,39.834404,0.000000 -81.691524,39.839599,0.000000 -81.684588,39.926510,0.000000 -81.728542,39.928665,0.000000 -81.711197,40.144828,0.000000 -81.666625,40.144492,0.000000 -81.662764,40.212699,0.000000 -81.613934,40.212489,0.000000 -81.329270,40.208286,0.000000 -81.331148,40.164666,0.000000 -81.219587,40.161655,0.000000 -81.229859,39.942644,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Miami<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.050008,39.879846,0.000000 -84.156358,39.886517,0.000000 -84.158357,39.920951,0.000000 -84.419733,39.919532,0.000000 -84.424312,40.191131,0.000000 -84.248572,40.196125,0.000000 -84.020164,40.179527,0.000000 -84.031881,40.037121,0.000000 -84.050008,39.879846,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Belmont<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.234224,39.864928,0.000000 -81.229859,39.942644,0.000000 -81.219587,40.161655,0.000000 -81.104705,40.164085,0.000000 -80.877795,40.153131,0.000000 -80.702065,40.154090,0.000000 -80.738239,40.035664,0.000000 -80.738888,39.983476,0.000000 -80.790849,39.872348,0.000000 -80.798525,39.856723,0.000000 -80.825917,39.839667,0.000000 -81.234224,39.864928,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Muskingum<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.074472,39.770389,0.000000 -82.074105,39.811706,0.000000 -82.167416,39.817798,0.000000 -82.160403,39.903846,0.000000 -82.230398,39.909400,0.000000 -82.229695,39.944380,0.000000 -82.199085,39.944621,0.000000 -82.182476,40.159507,0.000000 -81.711197,40.144828,0.000000 -81.728542,39.928665,0.000000 -81.684588,39.926510,0.000000 -81.691524,39.839599,0.000000 -81.696675,39.753204,0.000000 -82.074472,39.770389,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Franklin<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.242819,39.804478,0.000000 -83.250846,39.912205,0.000000 -83.263427,40.001565,0.000000 -83.261108,40.047551,0.000000 -83.212919,40.047021,0.000000 -83.205687,40.107308,0.000000 -83.170170,40.137986,0.000000 -82.756396,40.123240,0.000000 -82.782053,39.932353,0.000000 -82.794261,39.910495,0.000000 -82.803630,39.817923,0.000000 -82.826664,39.788794,0.000000 -83.242819,39.804478,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Madison<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.655379,39.711749,0.000000 -83.647238,39.770751,0.000000 -83.592245,39.765715,0.000000 -83.510550,40.007705,0.000000 -83.499565,40.113627,0.000000 -83.205687,40.107308,0.000000 -83.212919,40.047021,0.000000 -83.261108,40.047551,0.000000 -83.263427,40.001565,0.000000 -83.250846,39.912205,0.000000 -83.242819,39.804478,0.000000 -83.251173,39.691460,0.000000 -83.655379,39.711749,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Clark<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.647238,39.770751,0.000000 -83.742470,39.783305,0.000000 -83.823215,39.794249,0.000000 -83.823727,39.820578,0.000000 -83.936730,39.842543,0.000000 -84.050229,39.849386,0.000000 -84.050008,39.879846,0.000000 -84.031881,40.037121,0.000000 -83.510550,40.007705,0.000000 -83.592245,39.765715,0.000000 -83.647238,39.770751,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Noble<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.277791,39.598668,0.000000 -81.277768,39.586873,0.000000 -81.476239,39.578450,0.000000 -81.588220,39.583462,0.000000 -81.584260,39.661179,0.000000 -81.641750,39.662464,0.000000 -81.643786,39.749973,0.000000 -81.696675,39.753204,0.000000 -81.691524,39.839599,0.000000 -81.573715,39.834404,0.000000 -81.570990,39.892120,0.000000 -81.374907,39.949599,0.000000 -81.253038,39.949667,0.000000 -81.229859,39.942644,0.000000 -81.234224,39.864928,0.000000 -81.314038,39.866157,0.000000 -81.317328,39.702267,0.000000 -81.274777,39.700836,0.000000 -81.277791,39.598668,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Fairfield<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.730024,39.548152,0.000000 -82.848469,39.558119,0.000000 -82.841664,39.643767,0.000000 -82.826664,39.788794,0.000000 -82.803630,39.817923,0.000000 -82.794261,39.910495,0.000000 -82.782053,39.932353,0.000000 -82.459739,39.918254,0.000000 -82.468125,39.831211,0.000000 -82.392835,39.826455,0.000000 -82.399061,39.741777,0.000000 -82.361119,39.738715,0.000000 -82.370824,39.652091,0.000000 -82.487069,39.654774,0.000000 -82.493417,39.599595,0.000000 -82.608482,39.603569,0.000000 -82.612953,39.557083,0.000000 -82.726904,39.562808,0.000000 -82.730024,39.548152,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Perry<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.152754,39.554189,0.000000 -82.263674,39.560448,0.000000 -82.261415,39.589585,0.000000 -82.379583,39.595919,0.000000 -82.370824,39.652091,0.000000 -82.361119,39.738715,0.000000 -82.399061,39.741777,0.000000 -82.392835,39.826455,0.000000 -82.468125,39.831211,0.000000 -82.459739,39.918254,0.000000 -82.458000,39.927856,0.000000 -82.418287,39.926693,0.000000 -82.417005,39.916756,0.000000 -82.230398,39.909400,0.000000 -82.160403,39.903846,0.000000 -82.167416,39.817798,0.000000 -82.074105,39.811706,0.000000 -82.074472,39.770389,0.000000 -82.079332,39.724369,0.000000 -82.021164,39.722851,0.000000 -82.043132,39.549146,0.000000 -82.152754,39.554189,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Montgomery<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.482792,39.918764,0.000000 -84.419733,39.919532,0.000000 -84.158357,39.920951,0.000000 -84.156358,39.886517,0.000000 -84.050008,39.879846,0.000000 -84.050229,39.849386,0.000000 -84.087134,39.839273,0.000000 -84.106526,39.580138,0.000000 -84.284097,39.591520,0.000000 -84.362171,39.588166,0.000000 -84.475212,39.587355,0.000000 -84.482792,39.918764,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Preble<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.475212,39.587355,0.000000 -84.476768,39.566363,0.000000 -84.811037,39.564051,0.000000 -84.808697,39.733299,0.000000 -84.806150,39.917167,0.000000 -84.482792,39.918764,0.000000 -84.475212,39.587355,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Monroe<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.277791,39.598668,0.000000 -81.274777,39.700836,0.000000 -81.317328,39.702267,0.000000 -81.314038,39.866157,0.000000 -81.234224,39.864928,0.000000 -80.825917,39.839667,0.000000 -80.819104,39.809001,0.000000 -80.870728,39.759994,0.000000 -80.856453,39.736336,0.000000 -80.832298,39.718834,0.000000 -80.932611,39.606941,0.000000 -81.037383,39.532664,0.000000 -81.035025,39.569930,0.000000 -81.239612,39.576680,0.000000 -81.277791,39.598668,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Greene<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.975250,39.570652,0.000000 -84.106526,39.580138,0.000000 -84.087134,39.839273,0.000000 -84.050229,39.849386,0.000000 -83.936730,39.842543,0.000000 -83.823727,39.820578,0.000000 -83.823215,39.794249,0.000000 -83.742470,39.783305,0.000000 -83.647238,39.770751,0.000000 -83.655379,39.711749,0.000000 -83.673415,39.551865,0.000000 -83.975250,39.570652,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Pickaway<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.264974,39.512342,0.000000 -83.251173,39.691460,0.000000 -83.242819,39.804478,0.000000 -82.826664,39.788794,0.000000 -82.841664,39.643767,0.000000 -82.848469,39.558119,0.000000 -82.730024,39.548152,0.000000 -82.737151,39.457053,0.000000 -83.001255,39.469297,0.000000 -82.991435,39.489255,0.000000 -83.004475,39.503663,0.000000 -83.264974,39.512342,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Morgan<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.846775,39.452217,0.000000 -82.053562,39.458911,0.000000 -82.043132,39.549146,0.000000 -82.021164,39.722851,0.000000 -82.079332,39.724369,0.000000 -82.074472,39.770389,0.000000 -81.696675,39.753204,0.000000 -81.643786,39.749973,0.000000 -81.641750,39.662464,0.000000 -81.584260,39.661179,0.000000 -81.588220,39.583462,0.000000 -81.717742,39.581425,0.000000 -81.731048,39.563732,0.000000 -81.729995,39.535637,0.000000 -81.728408,39.528885,0.000000 -81.761231,39.488289,0.000000 -81.828326,39.452858,0.000000 -81.846775,39.452217,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Fayette<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.380408,39.374797,0.000000 -83.586468,39.371714,0.000000 -83.575345,39.544408,0.000000 -83.673415,39.551865,0.000000 -83.655379,39.711749,0.000000 -83.251173,39.691460,0.000000 -83.264974,39.512342,0.000000 -83.380408,39.374797,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Hocking<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.288691,39.379309,0.000000 -82.514200,39.391318,0.000000 -82.521670,39.361511,0.000000 -82.640970,39.354830,0.000000 -82.747398,39.359929,0.000000 -82.737151,39.457053,0.000000 -82.730024,39.548152,0.000000 -82.726904,39.562808,0.000000 -82.612953,39.557083,0.000000 -82.608482,39.603569,0.000000 -82.493417,39.599595,0.000000 -82.487069,39.654774,0.000000 -82.370824,39.652091,0.000000 -82.379583,39.595919,0.000000 -82.261415,39.589585,0.000000 -82.263674,39.560448,0.000000 -82.152754,39.554189,0.000000 -82.167098,39.461977,0.000000 -82.275408,39.466958,0.000000 -82.288691,39.379309,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Washington<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.375916,39.345690,0.000000 -81.433978,39.406023,0.000000 -81.447956,39.411028,0.000000 -81.465008,39.406858,0.000000 -81.540649,39.352709,0.000000 -81.557388,39.332655,0.000000 -81.572685,39.265918,0.000000 -81.667522,39.270495,0.000000 -81.689526,39.260226,0.000000 -81.697904,39.220020,0.000000 -81.723074,39.213268,0.000000 -81.721060,39.270503,0.000000 -81.815828,39.273608,0.000000 -81.854984,39.321249,0.000000 -81.846775,39.452217,0.000000 -81.828326,39.452858,0.000000 -81.761231,39.488289,0.000000 -81.728408,39.528885,0.000000 -81.729995,39.535637,0.000000 -81.731048,39.563732,0.000000 -81.717742,39.581425,0.000000 -81.588220,39.583462,0.000000 -81.476239,39.578450,0.000000 -81.277768,39.586873,0.000000 -81.277791,39.598668,0.000000 -81.239612,39.576680,0.000000 -81.035025,39.569930,0.000000 -81.037383,39.532664,0.000000 -81.117090,39.467784,0.000000 -81.180568,39.437800,0.000000 -81.200305,39.415896,0.000000 -81.237621,39.388472,0.000000 -81.338836,39.353644,0.000000 -81.375916,39.345690,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Warren<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.258192,39.264364,0.000000 -84.348733,39.289403,0.000000 -84.329104,39.554982,0.000000 -84.360591,39.546437,0.000000 -84.362171,39.588166,0.000000 -84.284097,39.591520,0.000000 -84.106526,39.580138,0.000000 -83.975250,39.570652,0.000000 -84.005456,39.249219,0.000000 -84.258192,39.264364,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Butler<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.812071,39.303029,0.000000 -84.812025,39.312333,0.000000 -84.811105,39.513163,0.000000 -84.811037,39.564051,0.000000 -84.476768,39.566363,0.000000 -84.475212,39.587355,0.000000 -84.362171,39.588166,0.000000 -84.360591,39.546437,0.000000 -84.329104,39.554982,0.000000 -84.348733,39.289403,0.000000 -84.641786,39.311557,0.000000 -84.666017,39.303347,0.000000 -84.812071,39.303029,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Clinton<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.980873,39.247323,0.000000 -84.005456,39.249219,0.000000 -83.975250,39.570652,0.000000 -83.673415,39.551865,0.000000 -83.575345,39.544408,0.000000 -83.586468,39.371714,0.000000 -83.779954,39.258084,0.000000 -83.802691,39.238763,0.000000 -83.861721,39.239843,0.000000 -83.980873,39.247323,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Athens<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.264337,39.199613,0.000000 -82.257234,39.290649,0.000000 -82.297312,39.293651,0.000000 -82.288691,39.379309,0.000000 -82.275408,39.466958,0.000000 -82.167098,39.461977,0.000000 -82.152754,39.554189,0.000000 -82.043132,39.549146,0.000000 -82.053562,39.458911,0.000000 -81.846775,39.452217,0.000000 -81.854984,39.321249,0.000000 -81.815828,39.273608,0.000000 -81.721060,39.270503,0.000000 -81.723074,39.213268,0.000000 -81.758910,39.175751,0.000000 -82.264337,39.199613,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Ross<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.350873,39.194082,0.000000 -83.342595,39.238976,0.000000 -83.354291,39.251141,0.000000 -83.368902,39.240460,0.000000 -83.385832,39.243748,0.000000 -83.384802,39.289665,0.000000 -83.380408,39.374797,0.000000 -83.264974,39.512342,0.000000 -83.004475,39.503663,0.000000 -82.991435,39.489255,0.000000 -83.001255,39.469297,0.000000 -82.737151,39.457053,0.000000 -82.747398,39.359929,0.000000 -82.760864,39.200927,0.000000 -82.784699,39.160877,0.000000 -83.350873,39.194082,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Vinton<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.434419,39.034582,0.000000 -82.424690,39.136178,0.000000 -82.537327,39.175688,0.000000 -82.655543,39.199891,0.000000 -82.760864,39.200927,0.000000 -82.747398,39.359929,0.000000 -82.640970,39.354830,0.000000 -82.521670,39.361511,0.000000 -82.514200,39.391318,0.000000 -82.288691,39.379309,0.000000 -82.297312,39.293651,0.000000 -82.257234,39.290649,0.000000 -82.264337,39.199613,0.000000 -82.303622,39.200371,0.000000 -82.322918,39.025806,0.000000 -82.434419,39.034582,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Highland<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.383290,39.051319,0.000000 -83.622105,39.017963,0.000000 -83.671973,39.018214,0.000000 -83.869847,39.020925,0.000000 -83.861721,39.239843,0.000000 -83.802691,39.238763,0.000000 -83.779954,39.258084,0.000000 -83.586468,39.371714,0.000000 -83.380408,39.374797,0.000000 -83.384802,39.289665,0.000000 -83.385832,39.243748,0.000000 -83.368902,39.240460,0.000000 -83.354291,39.251141,0.000000 -83.342595,39.238976,0.000000 -83.350873,39.194082,0.000000 -83.383290,39.051319,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Hamilton<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.515301,39.094195,0.000000 -84.622648,39.074935,0.000000 -84.667487,39.089625,0.000000 -84.742876,39.142064,0.000000 -84.789927,39.107034,0.000000 -84.811481,39.102586,0.000000 -84.812071,39.303029,0.000000 -84.666017,39.303347,0.000000 -84.641786,39.311557,0.000000 -84.348733,39.289403,0.000000 -84.258192,39.264364,0.000000 -84.316291,39.210752,0.000000 -84.310699,39.201967,0.000000 -84.291617,39.169841,0.000000 -84.313315,39.014074,0.000000 -84.444918,39.111827,0.000000 -84.492054,39.107363,0.000000 -84.515301,39.094195,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Clermont<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-84.228702,38.812690,0.000000 -84.235294,38.874556,0.000000 -84.261525,38.917477,0.000000 -84.290136,38.944538,0.000000 -84.313315,39.014074,0.000000 -84.291617,39.169841,0.000000 -84.310699,39.201967,0.000000 -84.316291,39.210752,0.000000 -84.258192,39.264364,0.000000 -84.005456,39.249219,0.000000 -83.980873,39.247323,0.000000 -84.053802,38.763735,0.000000 -84.088867,38.765505,0.000000 -84.176752,38.788499,0.000000 -84.228702,38.812690,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Brown<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.912540,38.757960,0.000000 -83.962163,38.777647,0.000000 -84.053802,38.763735,0.000000 -83.980873,39.247323,0.000000 -83.861721,39.239843,0.000000 -83.869847,39.020925,0.000000 -83.671973,39.018214,0.000000 -83.712825,38.635553,0.000000 -83.770223,38.650819,0.000000 -83.790465,38.693845,0.000000 -83.857553,38.744918,0.000000 -83.912540,38.757960,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Jackson<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.647530,38.844360,0.000000 -82.766820,38.849326,0.000000 -82.760351,38.939935,0.000000 -82.809181,38.943296,0.000000 -82.784699,39.160877,0.000000 -82.760864,39.200927,0.000000 -82.655543,39.199891,0.000000 -82.537327,39.175688,0.000000 -82.424690,39.136178,0.000000 -82.434419,39.034582,0.000000 -82.455880,38.844922,0.000000 -82.568670,38.850338,0.000000 -82.569677,38.839402,0.000000 -82.647530,38.844360,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Meigs<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.101207,38.952094,0.000000 -82.096049,39.001745,0.000000 -82.323262,39.013084,0.000000 -82.322918,39.025806,0.000000 -82.303622,39.200371,0.000000 -82.264337,39.199613,0.000000 -81.758910,39.175751,0.000000 -81.753562,39.094721,0.000000 -81.786361,39.077257,0.000000 -81.775680,39.016830,0.000000 -81.762297,38.930181,0.000000 -81.892695,38.873453,0.000000 -81.915249,38.884447,0.000000 -81.898608,38.932225,0.000000 -81.927830,38.984271,0.000000 -81.937733,38.991176,0.000000 -81.999679,39.015261,0.000000 -82.042886,39.014139,0.000000 -82.085017,38.977198,0.000000 -82.101207,38.952094,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Pike<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.809181,38.943296,0.000000 -83.199834,38.959887,0.000000 -83.234015,39.010179,0.000000 -83.269287,39.013536,0.000000 -83.310465,39.038861,0.000000 -83.313364,39.052800,0.000000 -83.383290,39.051319,0.000000 -83.350873,39.194082,0.000000 -82.784699,39.160877,0.000000 -82.809181,38.943296,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Adams<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.643190,38.635862,0.000000 -83.712825,38.635553,0.000000 -83.671973,39.018214,0.000000 -83.622105,39.017963,0.000000 -83.383290,39.051319,0.000000 -83.313364,39.052800,0.000000 -83.310465,39.038861,0.000000 -83.269287,39.013536,0.000000 -83.272755,38.609257,0.000000 -83.290044,38.596638,0.000000 -83.306531,38.596317,0.000000 -83.320326,38.606563,0.000000 -83.330023,38.631988,0.000000 -83.371422,38.654998,0.000000 -83.500073,38.690137,0.000000 -83.526556,38.696111,0.000000 -83.618379,38.677972,0.000000 -83.633241,38.664972,0.000000 -83.643190,38.635862,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Gallia<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.101207,38.952094,0.000000 -82.139317,38.899398,0.000000 -82.216750,38.778939,0.000000 -82.183973,38.710303,0.000000 -82.173657,38.632191,0.000000 -82.184247,38.595032,0.000000 -82.213659,38.584835,0.000000 -82.289971,38.580081,0.000000 -82.362118,38.583609,0.000000 -82.356220,38.672334,0.000000 -82.477136,38.679775,0.000000 -82.472032,38.734896,0.000000 -82.490137,38.766390,0.000000 -82.575727,38.773344,0.000000 -82.569677,38.839402,0.000000 -82.568670,38.850338,0.000000 -82.455880,38.844922,0.000000 -82.434419,39.034582,0.000000 -82.322918,39.025806,0.000000 -82.323262,39.013084,0.000000 -82.096049,39.001745,0.000000 -82.101207,38.952094,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Scioto<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-83.272755,38.609257,0.000000 -83.269287,39.013536,0.000000 -83.234015,39.010179,0.000000 -83.199834,38.959887,0.000000 -82.809181,38.943296,0.000000 -82.760351,38.939935,0.000000 -82.766820,38.849326,0.000000 -82.647530,38.844360,0.000000 -82.658867,38.745393,0.000000 -82.750124,38.601287,0.000000 -82.826992,38.571662,0.000000 -82.853857,38.600459,0.000000 -82.860029,38.652395,0.000000 -82.873191,38.719006,0.000000 -82.890312,38.742775,0.000000 -82.921304,38.746415,0.000000 -82.972483,38.719643,0.000000 -83.026943,38.714512,0.000000 -83.060880,38.685726,0.000000 -83.143150,38.619340,0.000000 -83.181939,38.609841,0.000000 -83.245014,38.624172,0.000000 -83.272755,38.609257,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Lawrence<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-82.586604,38.412519,0.000000 -82.613743,38.472669,0.000000 -82.669760,38.502141,0.000000 -82.695579,38.539143,0.000000 -82.741945,38.553066,0.000000 -82.802364,38.557289,0.000000 -82.826992,38.571662,0.000000 -82.750124,38.601287,0.000000 -82.658867,38.745393,0.000000 -82.647530,38.844360,0.000000 -82.569677,38.839402,0.000000 -82.575727,38.773344,0.000000 -82.490137,38.766390,0.000000 -82.472032,38.734896,0.000000 -82.477136,38.679775,0.000000 -82.356220,38.672334,0.000000 -82.362118,38.583609,0.000000 -82.289971,38.580081,0.000000 -82.314241,38.465230,0.000000 -82.329179,38.441952,0.000000 -82.394764,38.428470,0.000000 -82.414891,38.430393,0.000000 -82.494988,38.405833,0.000000 -82.586604,38.412519,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Ashtabula<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.004280,41.495599,0.000000 -81.000939,41.711916,0.000000 -80.999773,41.850257,0.000000 -80.520593,41.986872,0.000000 -80.522644,41.850775,0.000000 -80.523926,41.495102,0.000000 -81.004280,41.495599,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Ohio<br>County = Lake<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-81.000939,41.711916,0.000000 -81.092029,41.712125,0.000000 -81.093700,41.636664,0.000000 -81.286662,41.635209,0.000000 -81.285304,41.564381,0.000000 -81.379885,41.564282,0.000000 -81.476434,41.566327,0.000000 -81.478263,41.631716,0.000000 -81.362265,41.724283,0.000000 -80.999773,41.850257,0.000000 -81.000939,41.711916,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>    
+    <!--End Ohio-->
+    
     <!--Wisconsin-->
     <Placemark>
       <description><![CDATA[State = Wisconsin<br>County = Bayfield<br><br>]]></description>
