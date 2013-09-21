@@ -109,6 +109,850 @@
       </IconStyle>
     </Style>
 
+    <!--Wisconsin-->
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Bayfield<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-91.554270,46.159130,0.000000 -91.555773,46.756860,0.000000 -90.861730,46.952480,0.000000 -90.774486,46.920235,0.000000 -90.777446,46.883123,0.000000 -90.926244,46.585503,0.000000 -90.935131,46.278825,0.000000 -90.925910,46.156169,0.000000 -91.554270,46.159130,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Douglas<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.288944,46.156601,0.000000 -92.288685,46.415984,0.000000 -92.287272,46.658786,0.000000 -92.209154,46.646872,0.000000 -92.095970,46.742627,0.000000 -92.004157,46.683800,0.000000 -91.921461,46.680134,0.000000 -91.555773,46.756860,0.000000 -91.554270,46.159130,0.000000 -92.048657,46.158104,0.000000 -92.288944,46.156601,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Ashland<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.925910,46.156169,0.000000 -90.935131,46.278825,0.000000 -90.926244,46.585503,0.000000 -90.730714,46.645696,0.000000 -90.540877,46.587527,0.000000 -90.543935,46.244817,0.000000 -90.420955,46.240204,0.000000 -90.419799,46.157322,0.000000 -90.307515,46.154368,0.000000 -90.302174,45.984557,0.000000 -90.677239,45.979084,0.000000 -90.922125,45.980409,0.000000 -90.925910,46.156169,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Iron<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.408200,46.568611,0.000000 -90.385525,46.539658,0.000000 -90.300181,46.525052,0.000000 -90.211526,46.506295,0.000000 -90.161391,46.442380,0.000000 -90.141797,46.393899,0.000000 -90.111659,46.340429,0.000000 -89.925136,46.304026,0.000000 -89.924388,45.982600,0.000000 -90.038298,45.982199,0.000000 -90.302174,45.984557,0.000000 -90.307515,46.154368,0.000000 -90.419799,46.157322,0.000000 -90.420955,46.240204,0.000000 -90.543935,46.244817,0.000000 -90.540877,46.587527,0.000000 -90.408200,46.568611,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Washburn<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.033444,45.640248,0.000000 -92.033974,45.980237,0.000000 -92.047754,45.980897,0.000000 -92.048657,46.158104,0.000000 -91.554270,46.159130,0.000000 -91.550415,45.992519,0.000000 -91.541214,45.991283,0.000000 -91.540905,45.640799,0.000000 -92.033444,45.640248,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Sawyer<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.677239,45.979084,0.000000 -90.677045,45.636901,0.000000 -91.540905,45.640799,0.000000 -91.541214,45.991283,0.000000 -91.550415,45.992519,0.000000 -91.554270,46.159130,0.000000 -90.925910,46.156169,0.000000 -90.922125,45.980409,0.000000 -90.677239,45.979084,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Burnett<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.033444,45.640248,0.000000 -92.157817,45.638318,0.000000 -92.158641,45.724306,0.000000 -92.530047,45.727948,0.000000 -92.537357,45.644977,0.000000 -92.885397,45.644955,0.000000 -92.833636,45.730890,0.000000 -92.779107,45.763340,0.000000 -92.748762,45.837302,0.000000 -92.706241,45.890958,0.000000 -92.666208,45.915703,0.000000 -92.552672,45.951269,0.000000 -92.462346,45.981198,0.000000 -92.346225,46.022596,0.000000 -92.289370,46.073231,0.000000 -92.288944,46.156601,0.000000 -92.048657,46.158104,0.000000 -92.047754,45.980897,0.000000 -92.033974,45.980237,0.000000 -92.033444,45.640248,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Price<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.038913,45.897077,0.000000 -90.041347,45.554521,0.000000 -90.043211,45.384037,0.000000 -90.675753,45.379556,0.000000 -90.677045,45.636901,0.000000 -90.677239,45.979084,0.000000 -90.302174,45.984557,0.000000 -90.038298,45.982199,0.000000 -90.038913,45.897077,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Polk<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.755419,45.212377,0.000000 -92.746593,45.297603,0.000000 -92.707384,45.318202,0.000000 -92.648751,45.395466,0.000000 -92.644975,45.439452,0.000000 -92.654818,45.455222,0.000000 -92.728155,45.547242,0.000000 -92.762175,45.564263,0.000000 -92.835037,45.563402,0.000000 -92.876831,45.578837,0.000000 -92.885397,45.644955,0.000000 -92.537357,45.644977,0.000000 -92.530047,45.727948,0.000000 -92.158641,45.724306,0.000000 -92.157817,45.638318,0.000000 -92.162332,45.213071,0.000000 -92.755419,45.212377,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Barron<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.157817,45.638318,0.000000 -92.033444,45.640248,0.000000 -91.540905,45.640799,0.000000 -91.541988,45.293358,0.000000 -91.543369,45.211094,0.000000 -91.663758,45.210582,0.000000 -92.162332,45.213071,0.000000 -92.157817,45.638318,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Rusk<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.675753,45.379556,0.000000 -90.922280,45.378098,0.000000 -90.925657,45.293070,0.000000 -91.541988,45.293358,0.000000 -91.540905,45.640799,0.000000 -90.677045,45.636901,0.000000 -90.675753,45.379556,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Taylor<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.925657,45.293070,0.000000 -90.922280,45.378098,0.000000 -90.675753,45.379556,0.000000 -90.043211,45.384037,0.000000 -90.043043,45.124570,0.000000 -90.195559,45.122045,0.000000 -90.194640,45.033922,0.000000 -90.308220,45.031920,0.000000 -90.920738,45.030489,0.000000 -90.925657,45.293070,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Chippewa<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.923538,44.857435,0.000000 -91.652999,44.855464,0.000000 -91.649979,45.124011,0.000000 -91.661652,45.125194,0.000000 -91.663758,45.210582,0.000000 -91.543369,45.211094,0.000000 -91.541988,45.293358,0.000000 -90.925657,45.293070,0.000000 -90.920738,45.030489,0.000000 -90.923538,44.857435,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = St. Croix<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.138564,44.855918,0.000000 -92.764263,44.862234,0.000000 -92.749768,44.935656,0.000000 -92.767126,45.001005,0.000000 -92.796762,45.065610,0.000000 -92.745422,45.113004,0.000000 -92.744935,45.156423,0.000000 -92.755419,45.212377,0.000000 -92.162332,45.213071,0.000000 -92.160776,45.124925,0.000000 -92.141938,45.122556,0.000000 -92.138564,44.855918,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Dunn<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-91.653842,44.680653,0.000000 -92.134890,44.679802,0.000000 -92.138564,44.855918,0.000000 -92.141938,45.122556,0.000000 -92.160776,45.124925,0.000000 -92.162332,45.213071,0.000000 -91.663758,45.210582,0.000000 -91.661652,45.125194,0.000000 -91.649979,45.124011,0.000000 -91.652999,44.855464,0.000000 -91.653842,44.680653,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Clark<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.311742,44.682302,0.000000 -90.314388,44.422776,0.000000 -90.797339,44.422596,0.000000 -90.799637,44.508767,0.000000 -90.921398,44.512081,0.000000 -90.923099,44.592800,0.000000 -90.923538,44.857435,0.000000 -90.920738,45.030489,0.000000 -90.308220,45.031920,0.000000 -90.311742,44.682302,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Pierce<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.138564,44.855918,0.000000 -92.134890,44.679802,0.000000 -92.135924,44.541982,0.000000 -92.320478,44.540491,0.000000 -92.340873,44.552835,0.000000 -92.509215,44.575159,0.000000 -92.608974,44.610292,0.000000 -92.630368,44.642652,0.000000 -92.737146,44.713594,0.000000 -92.805585,44.746161,0.000000 -92.764263,44.862234,0.000000 -92.138564,44.855918,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Eau Claire<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-91.529852,44.594084,0.000000 -91.651840,44.597647,0.000000 -91.653842,44.680653,0.000000 -91.652999,44.855464,0.000000 -90.923538,44.857435,0.000000 -90.923099,44.592800,0.000000 -91.164264,44.593662,0.000000 -91.529852,44.594084,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Wood<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.311742,44.682302,0.000000 -89.838504,44.682060,0.000000 -89.835719,44.509653,0.000000 -89.724906,44.506695,0.000000 -89.722138,44.247760,0.000000 -89.886113,44.249203,0.000000 -90.310436,44.253217,0.000000 -90.314388,44.422776,0.000000 -90.311742,44.682302,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Pepin<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-92.320478,44.540491,0.000000 -92.135924,44.541982,0.000000 -92.134890,44.679802,0.000000 -91.653842,44.680653,0.000000 -91.651840,44.597647,0.000000 -92.016139,44.595849,0.000000 -92.038844,44.568498,0.000000 -92.050165,44.511717,0.000000 -92.091333,44.415590,0.000000 -92.249100,44.456217,0.000000 -92.320478,44.540491,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Buffalo<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-91.529852,44.594084,0.000000 -91.530313,44.246575,0.000000 -91.609482,44.207052,0.000000 -91.610847,44.168741,0.000000 -91.557201,44.081163,0.000000 -91.569162,44.034955,0.000000 -91.601786,44.040822,0.000000 -91.652234,44.066896,0.000000 -91.753219,44.137228,0.000000 -91.848744,44.191187,0.000000 -91.922754,44.317520,0.000000 -91.938868,44.339111,0.000000 -91.972386,44.364487,0.000000 -92.091333,44.415590,0.000000 -92.050165,44.511717,0.000000 -92.038844,44.568498,0.000000 -92.016139,44.595849,0.000000 -91.651840,44.597647,0.000000 -91.529852,44.594084,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Trempealeau<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-91.425902,43.985620,0.000000 -91.569162,44.034955,0.000000 -91.557201,44.081163,0.000000 -91.610847,44.168741,0.000000 -91.609482,44.207052,0.000000 -91.530313,44.246575,0.000000 -91.529852,44.594084,0.000000 -91.164264,44.593662,0.000000 -91.164096,44.248467,0.000000 -91.148752,44.247288,0.000000 -91.148422,44.076389,0.000000 -91.181841,44.089183,0.000000 -91.302768,44.064353,0.000000 -91.335405,44.047504,0.000000 -91.346467,44.033226,0.000000 -91.330618,43.987882,0.000000 -91.425902,43.985620,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Jackson<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-91.148422,44.076389,0.000000 -91.148752,44.247288,0.000000 -91.164096,44.248467,0.000000 -91.164264,44.593662,0.000000 -90.923099,44.592800,0.000000 -90.921398,44.512081,0.000000 -90.799637,44.508767,0.000000 -90.797339,44.422596,0.000000 -90.314388,44.422776,0.000000 -90.310436,44.253217,0.000000 -90.311870,44.159330,0.000000 -90.903224,44.161232,0.000000 -90.942530,44.151695,0.000000 -90.968920,44.134545,0.000000 -90.973335,44.073892,0.000000 -91.148422,44.076389,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Juneau<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.314589,43.642812,0.000000 -90.313728,43.729773,0.000000 -90.311870,44.159330,0.000000 -90.310436,44.253217,0.000000 -89.886113,44.249203,0.000000 -89.891103,44.229592,0.000000 -89.902959,44.185353,0.000000 -89.920019,44.161145,0.000000 -89.970854,44.140469,0.000000 -90.013931,44.109783,0.000000 -90.013541,44.058297,0.000000 -89.966726,43.910878,0.000000 -89.953114,43.868571,0.000000 -89.847278,43.766432,0.000000 -89.786654,43.662317,0.000000 -89.780261,43.644575,0.000000 -90.314589,43.642812,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Monroe<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.911371,43.725651,0.000000 -90.914085,44.070890,0.000000 -90.973335,44.073892,0.000000 -90.968920,44.134545,0.000000 -90.942530,44.151695,0.000000 -90.903224,44.161232,0.000000 -90.311870,44.159330,0.000000 -90.313728,43.729773,0.000000 -90.435845,43.723505,0.000000 -90.911371,43.725651,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = La Crosse<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.911371,43.725651,0.000000 -91.258916,43.722396,0.000000 -91.251105,43.788076,0.000000 -91.291948,43.847191,0.000000 -91.373357,43.947191,0.000000 -91.425902,43.985620,0.000000 -91.330618,43.987882,0.000000 -91.346467,44.033226,0.000000 -91.335405,44.047504,0.000000 -91.302768,44.064353,0.000000 -91.181841,44.089183,0.000000 -91.148422,44.076389,0.000000 -90.973335,44.073892,0.000000 -90.914085,44.070890,0.000000 -90.911371,43.725651,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Vernon<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.669372,43.422112,0.000000 -91.210917,43.424051,0.000000 -91.223567,43.500809,0.000000 -91.240558,43.548713,0.000000 -91.232990,43.598890,0.000000 -91.258389,43.677322,0.000000 -91.258916,43.722396,0.000000 -90.911371,43.725651,0.000000 -90.435845,43.723505,0.000000 -90.313728,43.729773,0.000000 -90.314589,43.642812,0.000000 -90.315474,43.558139,0.000000 -90.668519,43.556843,0.000000 -90.669372,43.422112,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Richland<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.428729,43.200182,0.000000 -90.538814,43.208908,0.000000 -90.666485,43.178264,0.000000 -90.669372,43.422112,0.000000 -90.668519,43.556843,0.000000 -90.315474,43.558139,0.000000 -90.194837,43.557462,0.000000 -90.192797,43.168432,0.000000 -90.255320,43.200841,0.000000 -90.313250,43.211414,0.000000 -90.368541,43.210601,0.000000 -90.428729,43.200182,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Crawford<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-91.168572,43.082888,0.000000 -91.161354,43.147576,0.000000 -91.069052,43.257898,0.000000 -91.066428,43.280683,0.000000 -91.078498,43.313298,0.000000 -91.177049,43.353946,0.000000 -91.198244,43.370513,0.000000 -91.210917,43.424051,0.000000 -90.669372,43.422112,0.000000 -90.666485,43.178264,0.000000 -90.707494,43.152873,0.000000 -90.807530,43.097328,0.000000 -90.945333,43.056766,0.000000 -91.048124,42.998738,0.000000 -91.078070,42.993374,0.000000 -91.152214,43.001316,0.000000 -91.168572,43.082888,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Iowa<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.192797,43.168432,0.000000 -90.096056,43.165275,0.000000 -89.908464,43.193278,0.000000 -89.836915,43.208495,0.000000 -89.835824,42.856057,0.000000 -89.838106,42.810587,0.000000 -90.425420,42.814103,0.000000 -90.428729,43.200182,0.000000 -90.368541,43.210601,0.000000 -90.313250,43.211414,0.000000 -90.255320,43.200841,0.000000 -90.192797,43.168432,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Grant<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.892546,42.678240,0.000000 -90.919409,42.680677,0.000000 -90.999182,42.707059,0.000000 -91.066169,42.744914,0.000000 -91.082030,42.783365,0.000000 -91.093429,42.871440,0.000000 -91.139122,42.925894,0.000000 -91.152214,43.001316,0.000000 -91.078070,42.993374,0.000000 -91.048124,42.998738,0.000000 -90.945333,43.056766,0.000000 -90.807530,43.097328,0.000000 -90.707494,43.152873,0.000000 -90.666485,43.178264,0.000000 -90.538814,43.208908,0.000000 -90.428729,43.200182,0.000000 -90.425420,42.814103,0.000000 -90.420103,42.508365,0.000000 -90.638456,42.509364,0.000000 -90.625707,42.528562,0.000000 -90.639219,42.555714,0.000000 -90.694791,42.637929,0.000000 -90.745610,42.657001,0.000000 -90.892546,42.678240,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Lafayette<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.834739,42.503469,0.000000 -89.923691,42.504116,0.000000 -90.420103,42.508365,0.000000 -90.425420,42.814103,0.000000 -89.838106,42.810587,0.000000 -89.834739,42.503469,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Vilas<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.038913,45.897077,0.000000 -90.038298,45.982199,0.000000 -89.924388,45.982600,0.000000 -89.925136,46.304026,0.000000 -89.099806,46.145643,0.000000 -88.985301,46.100391,0.000000 -88.925195,46.073602,0.000000 -88.929236,45.984820,0.000000 -89.041207,45.982496,0.000000 -89.043760,45.896472,0.000000 -89.167992,45.895917,0.000000 -89.170127,45.860689,0.000000 -89.291674,45.860932,0.000000 -89.293514,45.901199,0.000000 -90.038913,45.897077,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Forest<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.042123,45.467980,0.000000 -89.043760,45.896472,0.000000 -89.041207,45.982496,0.000000 -88.929236,45.984820,0.000000 -88.925195,46.073602,0.000000 -88.804397,46.026805,0.000000 -88.773017,46.021148,0.000000 -88.703606,46.018924,0.000000 -88.677384,46.020144,0.000000 -88.667396,45.981178,0.000000 -88.667299,45.726794,0.000000 -88.414993,45.721352,0.000000 -88.422525,45.375802,0.000000 -88.669679,45.378461,0.000000 -88.919423,45.382965,0.000000 -88.919371,45.463850,0.000000 -89.042123,45.467980,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Florence<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.677384,46.020144,0.000000 -88.643670,45.993388,0.000000 -88.615502,45.994120,0.000000 -88.597536,46.015516,0.000000 -88.548358,46.019300,0.000000 -88.515613,46.018610,0.000000 -88.494083,46.012960,0.000000 -88.454319,46.000760,0.000000 -88.214992,45.947902,0.000000 -88.111390,45.926288,0.000000 -88.093850,45.920615,0.000000 -88.065421,45.873642,0.000000 -88.121786,45.834878,0.000000 -88.129950,45.819402,0.000000 -88.088734,45.791533,0.000000 -88.051639,45.786112,0.000000 -88.055787,45.715256,0.000000 -88.414993,45.721352,0.000000 -88.667299,45.726794,0.000000 -88.667396,45.981178,0.000000 -88.677384,46.020144,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Oneida<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.043760,45.896472,0.000000 -89.042123,45.467980,0.000000 -89.420215,45.470101,0.000000 -89.421416,45.556949,0.000000 -90.041347,45.554521,0.000000 -90.038913,45.897077,0.000000 -89.293514,45.901199,0.000000 -89.291674,45.860932,0.000000 -89.170127,45.860689,0.000000 -89.167992,45.895917,0.000000 -89.043760,45.896472,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Marinette<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.842363,45.722418,0.000000 -87.801553,45.711391,0.000000 -87.777474,45.684102,0.000000 -87.775075,45.600387,0.000000 -87.789385,45.499068,0.000000 -87.849532,45.406118,0.000000 -87.883611,45.365854,0.000000 -87.841283,45.346149,0.000000 -87.760038,45.352898,0.000000 -87.689598,45.391269,0.000000 -87.643684,45.361856,0.000000 -87.645362,45.348169,0.000000 -87.704471,45.272205,0.000000 -87.736200,45.199072,0.000000 -87.729669,45.176605,0.000000 -87.672814,45.140673,0.000000 -87.664886,45.109054,0.000000 -87.618521,45.056807,0.000000 -87.620336,44.991998,0.000000 -87.748555,44.961617,0.000000 -87.753225,44.992420,0.000000 -87.937619,44.997428,0.000000 -87.938985,45.022100,0.000000 -88.114413,45.027678,0.000000 -88.115849,45.114907,0.000000 -88.183063,45.114667,0.000000 -88.182675,45.200522,0.000000 -88.303647,45.202566,0.000000 -88.300616,45.372487,0.000000 -88.422525,45.375802,0.000000 -88.414993,45.721352,0.000000 -88.055787,45.715256,0.000000 -88.051639,45.786112,0.000000 -87.990070,45.795046,0.000000 -87.873629,45.750699,0.000000 -87.842363,45.722418,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Lincoln<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.420215,45.470101,0.000000 -89.420628,45.121533,0.000000 -90.043043,45.124570,0.000000 -90.043211,45.384037,0.000000 -90.041347,45.554521,0.000000 -89.421416,45.556949,0.000000 -89.420215,45.470101,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Langlade<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.216773,45.031314,0.000000 -89.218345,45.118524,0.000000 -89.420628,45.121533,0.000000 -89.420215,45.470101,0.000000 -89.042123,45.467980,0.000000 -88.919371,45.463850,0.000000 -88.919423,45.382965,0.000000 -88.669679,45.378461,0.000000 -88.671134,45.208070,0.000000 -88.634261,45.206922,0.000000 -88.632811,45.118769,0.000000 -88.978572,45.119178,0.000000 -88.976031,45.031045,0.000000 -89.216773,45.031314,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Oconto<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.748555,44.961617,0.000000 -87.839993,44.927323,0.000000 -87.831020,44.873346,0.000000 -87.985792,44.720474,0.000000 -87.983182,44.677265,0.000000 -88.235294,44.675164,0.000000 -88.243532,44.853658,0.000000 -88.479748,44.856571,0.000000 -88.482893,45.117723,0.000000 -88.632811,45.118769,0.000000 -88.634261,45.206922,0.000000 -88.671134,45.208070,0.000000 -88.669679,45.378461,0.000000 -88.422525,45.375802,0.000000 -88.300616,45.372487,0.000000 -88.303647,45.202566,0.000000 -88.182675,45.200522,0.000000 -88.183063,45.114667,0.000000 -88.115849,45.114907,0.000000 -88.114413,45.027678,0.000000 -87.938985,45.022100,0.000000 -87.937619,44.997428,0.000000 -87.753225,44.992420,0.000000 -87.748555,44.961617,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Door<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.034524,45.290406,0.000000 -86.986254,45.298657,0.000000 -86.967712,45.240277,0.000000 -87.025448,45.149974,0.000000 -87.079876,45.147307,0.000000 -87.178693,44.982806,0.000000 -87.168788,44.933323,0.000000 -87.205651,44.873239,0.000000 -87.311124,44.798774,0.000000 -87.378737,44.837743,0.000000 -87.405420,44.911200,0.000000 -87.342161,45.015213,0.000000 -87.283485,45.052619,0.000000 -87.230915,45.175063,0.000000 -87.177913,45.154973,0.000000 -87.066064,45.296463,0.000000 -87.034524,45.290406,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Door<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.723822,44.689287,0.000000 -87.614464,44.833047,0.000000 -87.552788,44.851336,0.000000 -87.551673,44.823024,0.000000 -87.433747,44.891097,0.000000 -87.367460,44.811567,0.000000 -87.314465,44.794719,0.000000 -87.373070,44.676918,0.000000 -87.731855,44.676298,0.000000 -87.723822,44.689287,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Marathon<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.311742,44.682302,0.000000 -90.308220,45.031920,0.000000 -90.194640,45.033922,0.000000 -90.195559,45.122045,0.000000 -90.043043,45.124570,0.000000 -89.420628,45.121533,0.000000 -89.218345,45.118524,0.000000 -89.216773,45.031314,0.000000 -89.216322,44.680825,0.000000 -89.838504,44.682060,0.000000 -90.311742,44.682302,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Menominee<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.479748,44.856571,0.000000 -88.725667,44.856844,0.000000 -88.729201,44.942212,0.000000 -88.972200,44.943835,0.000000 -88.976031,45.031045,0.000000 -88.978572,45.119178,0.000000 -88.632811,45.118769,0.000000 -88.482893,45.117723,0.000000 -88.479748,44.856571,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Shawano<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.216322,44.680825,0.000000 -89.216773,45.031314,0.000000 -88.976031,45.031045,0.000000 -88.972200,44.943835,0.000000 -88.729201,44.942212,0.000000 -88.725667,44.856844,0.000000 -88.479748,44.856571,0.000000 -88.243532,44.853658,0.000000 -88.235294,44.675164,0.000000 -88.235630,44.588946,0.000000 -88.595964,44.591864,0.000000 -88.598681,44.676731,0.000000 -89.216322,44.680825,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Kewaunee<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.763296,44.327807,0.000000 -87.764227,44.644048,0.000000 -87.723822,44.689287,0.000000 -87.731855,44.676298,0.000000 -87.373070,44.676918,0.000000 -87.473528,44.533946,0.000000 -87.537489,44.327851,0.000000 -87.763296,44.327807,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Portage<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.593901,44.244722,0.000000 -89.722138,44.247760,0.000000 -89.724906,44.506695,0.000000 -89.835719,44.509653,0.000000 -89.838504,44.682060,0.000000 -89.216322,44.680825,0.000000 -89.215594,44.244911,0.000000 -89.593901,44.244722,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Waupaca<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.880675,44.243782,0.000000 -89.215594,44.244911,0.000000 -89.216322,44.680825,0.000000 -88.598681,44.676731,0.000000 -88.595964,44.591864,0.000000 -88.726792,44.590404,0.000000 -88.732014,44.244828,0.000000 -88.880675,44.243782,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Brown<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.235630,44.588946,0.000000 -88.235294,44.675164,0.000000 -87.983182,44.677265,0.000000 -88.013288,44.639118,0.000000 -88.040418,44.571449,0.000000 -87.966228,44.535496,0.000000 -87.926409,44.539140,0.000000 -87.868783,44.616906,0.000000 -87.764227,44.644048,0.000000 -87.763296,44.327807,0.000000 -87.878955,44.326528,0.000000 -87.882867,44.242692,0.000000 -88.038597,44.240394,0.000000 -88.185254,44.244656,0.000000 -88.188885,44.585303,0.000000 -88.235630,44.588946,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Outagamie<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.399033,44.242037,0.000000 -88.732014,44.244828,0.000000 -88.726792,44.590404,0.000000 -88.595964,44.591864,0.000000 -88.235630,44.588946,0.000000 -88.188885,44.585303,0.000000 -88.185254,44.244656,0.000000 -88.399033,44.242037,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Manitowoc<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.537489,44.327851,0.000000 -87.517322,44.175754,0.000000 -87.644371,44.097830,0.000000 -87.726122,43.893904,0.000000 -88.038380,43.895001,0.000000 -88.038597,44.240394,0.000000 -87.882867,44.242692,0.000000 -87.878955,44.326528,0.000000 -87.763296,44.327807,0.000000 -87.537489,44.327851,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Adams<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.596871,43.644839,0.000000 -89.780261,43.644575,0.000000 -89.786654,43.662317,0.000000 -89.847278,43.766432,0.000000 -89.953114,43.868571,0.000000 -89.966726,43.910878,0.000000 -90.013541,44.058297,0.000000 -90.013931,44.109783,0.000000 -89.970854,44.140469,0.000000 -89.920019,44.161145,0.000000 -89.902959,44.185353,0.000000 -89.891103,44.229592,0.000000 -89.886113,44.249203,0.000000 -89.722138,44.247760,0.000000 -89.593901,44.244722,0.000000 -89.594172,43.981365,0.000000 -89.596871,43.644839,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Waushara<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.163303,43.983709,0.000000 -89.594172,43.981365,0.000000 -89.593901,44.244722,0.000000 -89.215594,44.244911,0.000000 -88.880675,44.243782,0.000000 -88.884307,43.983620,0.000000 -89.163303,43.983709,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Winnebago<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.402636,43.940425,0.000000 -88.405198,43.899452,0.000000 -88.882566,43.895242,0.000000 -88.884307,43.983620,0.000000 -88.880675,44.243782,0.000000 -88.732014,44.244828,0.000000 -88.399033,44.242037,0.000000 -88.402636,43.940425,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Calumet<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.038597,44.240394,0.000000 -88.038380,43.895001,0.000000 -88.157745,43.893536,0.000000 -88.162583,43.938224,0.000000 -88.402636,43.940425,0.000000 -88.399033,44.242037,0.000000 -88.185254,44.244656,0.000000 -88.038597,44.240394,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Marquette<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.596871,43.644839,0.000000 -89.594172,43.981365,0.000000 -89.163303,43.983709,0.000000 -89.165713,43.880774,0.000000 -89.193919,43.817084,0.000000 -89.235316,43.768447,0.000000 -89.237055,43.645070,0.000000 -89.596871,43.644839,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Green Lake<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.883647,43.635247,0.000000 -89.006322,43.633029,0.000000 -89.120125,43.634314,0.000000 -89.122604,43.642973,0.000000 -89.237055,43.645070,0.000000 -89.235316,43.768447,0.000000 -89.193919,43.817084,0.000000 -89.165713,43.880774,0.000000 -89.163303,43.983709,0.000000 -88.884307,43.983620,0.000000 -88.882566,43.895242,0.000000 -88.883647,43.635247,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Fond du Lac<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.883647,43.635247,0.000000 -88.882566,43.895242,0.000000 -88.405198,43.899452,0.000000 -88.402636,43.940425,0.000000 -88.162583,43.938224,0.000000 -88.157745,43.893536,0.000000 -88.153179,43.546059,0.000000 -88.395005,43.548762,0.000000 -88.393061,43.630230,0.000000 -88.883647,43.635247,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Sheboygan<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.157745,43.893536,0.000000 -88.038380,43.895001,0.000000 -87.726122,43.893904,0.000000 -87.702730,43.673176,0.000000 -87.786045,43.546297,0.000000 -88.031992,43.542947,0.000000 -88.153179,43.546059,0.000000 -88.157745,43.893536,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Columbia<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.717179,43.296097,0.000000 -89.723534,43.316558,0.000000 -89.693436,43.354368,0.000000 -89.647484,43.362162,0.000000 -89.599647,43.380407,0.000000 -89.597382,43.556073,0.000000 -89.617608,43.566071,0.000000 -89.723742,43.573215,0.000000 -89.769381,43.612277,0.000000 -89.780261,43.644575,0.000000 -89.596871,43.644839,0.000000 -89.237055,43.645070,0.000000 -89.122604,43.642973,0.000000 -89.120125,43.634314,0.000000 -89.006322,43.633029,0.000000 -89.008814,43.285805,0.000000 -89.362361,43.285284,0.000000 -89.362964,43.297567,0.000000 -89.717179,43.296097,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Sauk<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.836915,43.208495,0.000000 -89.908464,43.193278,0.000000 -90.096056,43.165275,0.000000 -90.192797,43.168432,0.000000 -90.194837,43.557462,0.000000 -90.315474,43.558139,0.000000 -90.314589,43.642812,0.000000 -89.780261,43.644575,0.000000 -89.769381,43.612277,0.000000 -89.723742,43.573215,0.000000 -89.617608,43.566071,0.000000 -89.597382,43.556073,0.000000 -89.599647,43.380407,0.000000 -89.647484,43.362162,0.000000 -89.693436,43.354368,0.000000 -89.723534,43.316558,0.000000 -89.717179,43.296097,0.000000 -89.730279,43.261498,0.000000 -89.767304,43.242776,0.000000 -89.811929,43.239488,0.000000 -89.836915,43.208495,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Dodge<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.008791,43.201643,0.000000 -89.008814,43.285805,0.000000 -89.006322,43.633029,0.000000 -88.883647,43.635247,0.000000 -88.393061,43.630230,0.000000 -88.395005,43.548762,0.000000 -88.402869,43.373153,0.000000 -88.415473,43.372802,0.000000 -88.414457,43.198087,0.000000 -88.537591,43.199046,0.000000 -89.008791,43.201643,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Washington<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.058897,43.194664,0.000000 -88.414457,43.198087,0.000000 -88.415473,43.372802,0.000000 -88.402869,43.373153,0.000000 -88.395005,43.548762,0.000000 -88.153179,43.546059,0.000000 -88.031992,43.542947,0.000000 -88.037025,43.366408,0.000000 -88.056542,43.367079,0.000000 -88.058897,43.194664,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Ozaukee<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.058897,43.194664,0.000000 -88.056542,43.367079,0.000000 -88.037025,43.366408,0.000000 -88.031992,43.542947,0.000000 -87.786045,43.546297,0.000000 -87.802959,43.458714,0.000000 -87.875332,43.358593,0.000000 -87.889834,43.197217,0.000000 -88.058897,43.194664,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Dane<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.010068,42.845572,0.000000 -89.360119,42.841869,0.000000 -89.360096,42.852775,0.000000 -89.835824,42.856057,0.000000 -89.836915,43.208495,0.000000 -89.811929,43.239488,0.000000 -89.767304,43.242776,0.000000 -89.730279,43.261498,0.000000 -89.717179,43.296097,0.000000 -89.362964,43.297567,0.000000 -89.362361,43.285284,0.000000 -89.008814,43.285805,0.000000 -89.008791,43.201643,0.000000 -89.010068,42.845572,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Jefferson<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.771354,42.839914,0.000000 -89.010068,42.845572,0.000000 -89.008791,43.201643,0.000000 -88.537591,43.199046,0.000000 -88.537568,42.841584,0.000000 -88.771354,42.839914,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Waukesha<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.057505,42.841264,0.000000 -88.298181,42.840514,0.000000 -88.537568,42.841584,0.000000 -88.537591,43.199046,0.000000 -88.414457,43.198087,0.000000 -88.058897,43.194664,0.000000 -88.057505,42.841264,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Milwaukee<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.057505,42.841264,0.000000 -88.058897,43.194664,0.000000 -87.889834,43.197217,0.000000 -87.860069,43.075875,0.000000 -87.891983,43.025775,0.000000 -87.836439,42.964593,0.000000 -87.819849,42.841563,0.000000 -88.057505,42.841264,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Green<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-89.360119,42.841869,0.000000 -89.359559,42.497918,0.000000 -89.400613,42.497502,0.000000 -89.834739,42.503469,0.000000 -89.838106,42.810587,0.000000 -89.835824,42.856057,0.000000 -89.360096,42.852775,0.000000 -89.360119,42.841869,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Rock<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.765058,42.490922,0.000000 -88.939187,42.490880,0.000000 -89.359559,42.497918,0.000000 -89.360119,42.841869,0.000000 -89.010068,42.845572,0.000000 -88.771354,42.839914,0.000000 -88.765058,42.490922,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Walworth<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.765058,42.490922,0.000000 -88.771354,42.839914,0.000000 -88.537568,42.841584,0.000000 -88.298181,42.840514,0.000000 -88.299706,42.608683,0.000000 -88.297989,42.491989,0.000000 -88.706623,42.489671,0.000000 -88.765058,42.490922,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Racine<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.299706,42.608683,0.000000 -88.298181,42.840514,0.000000 -88.057505,42.841264,0.000000 -87.819849,42.841563,0.000000 -87.756804,42.777546,0.000000 -87.791509,42.666642,0.000000 -88.179646,42.664797,0.000000 -88.180684,42.610263,0.000000 -88.299706,42.608683,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[State = Wisconsin<br>County = Kenosha<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.791509,42.666642,0.000000 -87.797382,42.489153,0.000000 -88.194790,42.489632,0.000000 -88.297989,42.491989,0.000000 -88.299706,42.608683,0.000000 -88.180684,42.610263,0.000000 -88.179646,42.664797,0.000000 -87.791509,42.666642,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>    
+    <!--Wisconsin City Level-->
+    <Placemark>
+      <name>Ephraim</name>
+      <description>Dry</description>
+      <LookAt>
+        <longitude>-87.16816603321512</longitude>
+        <latitude>45.15637797679775</latitude>
+        <altitude>0</altitude>
+        <heading>-1.018158767060766e-009</heading>
+        <tilt>0</tilt>
+        <range>8530.022321372799</range>
+        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+      </LookAt>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <Point>
+        <gx:drawOrder>1</gx:drawOrder>
+        <coordinates>-87.16816603321512,45.15637797679776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sparta</name>
+      <description>Dry</description>
+      <LookAt>
+        <longitude>-90.81290376588289</longitude>
+        <latitude>43.94413576876508</latitude>
+        <altitude>0</altitude>
+        <heading>-1.226969711862054e-007</heading>
+        <tilt>0</tilt>
+        <range>9095.104371932839</range>
+        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+      </LookAt>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <Point>
+        <gx:drawOrder>1</gx:drawOrder>
+        <coordinates>-90.81290376588289,43.94413576876508,0</coordinates>
+      </Point>
+    </Placemark>
+    <!--End Wisconsin City Level-->
+    <!--End Wisconsin-->
+    
     <!--Kansas-->
     <Placemark>
       <description><![CDATA[State = Kansas<br>County = Norton<br>]]></description>
