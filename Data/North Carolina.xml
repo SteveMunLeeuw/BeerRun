@@ -340,7 +340,7 @@
         </LinearRing>
       </outerBoundaryIs>
     </Polygon>
-    <styleUrl>#County_Wet</styleUrl>
+    <styleUrl>#County_PartiallyWet</styleUrl>
   </Placemark>
   <Placemark>
     <description><![CDATA[State = North Carolina<br>County = Bertie<br><br>]]></description>

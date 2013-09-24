@@ -9,9 +9,10 @@ define(
 					mapTypeId: google.maps.MapTypeId.ROADMAP
 				};
 
-                var map = new google.maps.Map( mapCanvas, myOptions );	
+				var map = new google.maps.Map( mapCanvas, myOptions );	
+				var beerRunKmlUrl = 'https://raw.github.com/SteveMunLeeuw/BeerRun/master/Data/BeerRun.kml?_salt=' + Math.random();
                 var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://raw.github.com/SteveMunLeeuw/BeerRun/master/Data/BeerRun.kml?a=5'
+                url: beerRunKmlUrl
                 });
                 ctaLayer.setMap(map);
 
