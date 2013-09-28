@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placemark>
+  <name>Bridgewater, CT</name>
+  <description>Dry</description>
+  <LookAt>
+    <longitude>-73.36622746191681</longitude>
+    <latitude>41.53509831482425</latitude>
+    <altitude>0</altitude>
+    <heading>-2.524487990932906e-008</heading>
+    <tilt>0</tilt>
+    <range>18819.94643519472</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#msn_ylw-pushpin</styleUrl>
+  <Point>
+    <gx:drawOrder>1</gx:drawOrder>
+    <coordinates>-73.36622746191681,41.53509831482425,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Easton, CT</name>
+  <description>Dry</description>
+  <LookAt>
+    <longitude>-73.29663999695893</longitude>
+    <latitude>41.27120600309982</latitude>
+    <altitude>0</altitude>
+    <heading>2.005948802884247e-009</heading>
+    <tilt>0</tilt>
+    <range>17126.54022548807</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#msn_ylw-pushpin</styleUrl>
+  <Point>
+    <gx:drawOrder>1</gx:drawOrder>
+    <coordinates>-73.29663999215656,41.2712060029846,0</coordinates>
+  </Point>
+</Placemark>
