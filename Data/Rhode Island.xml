@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Placemark>
+    <description><![CDATA[State = Rhode Island<br>County = Providence<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-71.788249,41.721603,0.000000 -71.797832,42.004275,0.000000 -71.497430,42.009253,0.000000 -71.378644,42.013713,0.000000 -71.382405,41.979263,0.000000 -71.383953,41.888440,0.000000 -71.339799,41.784426,0.000000 -71.319328,41.772196,0.000000 -71.367387,41.741350,0.000000 -71.393581,41.761156,0.000000 -71.415829,41.760088,0.000000 -71.438390,41.749181,0.000000 -71.453863,41.729963,0.000000 -71.788249,41.721603,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Rhode Island<br>County = Bristol<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-71.367387,41.741350,0.000000 -71.319328,41.772196,0.000000 -71.228976,41.707694,0.000000 -71.284002,41.679549,0.000000 -71.367387,41.741350,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Rhode Island<br>County = Kent<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-71.792605,41.641758,0.000000 -71.788249,41.721603,0.000000 -71.453863,41.729963,0.000000 -71.438390,41.749181,0.000000 -71.415829,41.760088,0.000000 -71.393581,41.761156,0.000000 -71.369013,41.703291,0.000000 -71.419247,41.652212,0.000000 -71.475837,41.632299,0.000000 -71.487945,41.603022,0.000000 -71.790194,41.601307,0.000000 -71.792605,41.641758,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Rhode Island<br>County = Newport<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-71.198809,41.678500,0.000000 -71.141213,41.655273,0.000000 -71.117133,41.493062,0.000000 -71.199937,41.463318,0.000000 -71.198809,41.678500,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Rhode Island<br>County = Newport<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-71.269169,41.621268,0.000000 -71.219447,41.635642,0.000000 -71.238673,41.474850,0.000000 -71.349525,41.445858,0.000000 -71.269169,41.621268,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+  <Placemark>
+    <description><![CDATA[State = Rhode Island<br>County = Washington<br>]]></description>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-71.866678,41.322770,0.000000 -71.847772,41.325348,0.000000 -71.836870,41.341961,0.000000 -71.802743,41.415829,0.000000 -71.790194,41.601307,0.000000 -71.487945,41.603022,0.000000 -71.475837,41.632299,0.000000 -71.419247,41.652212,0.000000 -71.427319,41.486689,0.000000 -71.489888,41.392085,0.000000 -71.722264,41.327264,0.000000 -71.866678,41.322770,0.000000</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <styleUrl>#County_Wet</styleUrl>
+  </Placemark>
+</Document>
