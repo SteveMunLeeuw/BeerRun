@@ -11,7 +11,7 @@ namespace XmlExtractor
     {
         static void Main(string[] args)
         {
-            var state = "Rhode Island";
+            var state = "Tennessee";
             var doc = XDocument.Load(@".\..\..\..\..\AllCounties.xml");
             var output = new XDocument(new XElement("Document"));
             var placemarks = doc.Descendants("Placemark").Where(x => x.Element("description").Value.Contains(string.Format("State = {0}", state)));
