@@ -1,0 +1,72 @@
+﻿<Placemark>
+  <name>Brookfield, NH</name>
+  <description>Dry</description>
+  <LookAt>
+    <longitude>-71.06535092012248</longitude>
+    <latitude>43.55896674102431</latitude>
+    <altitude>0</altitude>
+    <heading>-3.628352433467493e-007</heading>
+    <tilt>0</tilt>
+    <range>20807.01692412899</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin0</styleUrl>
+  <Point>
+    <gx:drawOrder>1</gx:drawOrder>
+    <coordinates>-71.06535092012248,43.55896674102431,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Ellsworth, NH</name>
+  <description>Dry</description>
+  <LookAt>
+    <longitude>-71.7370360886944</longitude>
+    <latitude>43.87391634767649</latitude>
+    <altitude>0</altitude>
+    <heading>1.563877178403817e-007</heading>
+    <tilt>0</tilt>
+    <range>21856.15592349082</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin0</styleUrl>
+  <Point>
+    <gx:drawOrder>1</gx:drawOrder>
+    <coordinates>-71.7370360886944,43.8739163476765,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Monroe, NH</name>
+  <description>Dry</description>
+  <LookAt>
+    <longitude>-72.0547214763946</longitude>
+    <latitude>44.2602773657678</latitude>
+    <altitude>0</altitude>
+    <heading>4.280689462453658e-009</heading>
+    <tilt>0</tilt>
+    <range>21323.16712167214</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin0</styleUrl>
+  <Point>
+    <gx:drawOrder>1</gx:drawOrder>
+    <coordinates>-72.05472147639459,44.26027736576779,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Sharon, NH</name>
+  <description>Dry</description>
+  <LookAt>
+    <longitude>-71.91563428613962</longitude>
+    <latitude>42.81314305633409</latitude>
+    <altitude>0</altitude>
+    <heading>7.889362706815571e-009</heading>
+    <tilt>0</tilt>
+    <range>11616.23653337337</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin0</styleUrl>
+  <Point>
+    <gx:drawOrder>1</gx:drawOrder>
+    <coordinates>-71.91563428613962,42.81314305633409,0</coordinates>
+  </Point>
+</Placemark>
