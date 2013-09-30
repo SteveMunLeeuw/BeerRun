@@ -4,8 +4,8 @@ define(
 		return {
 			addMapToCanvas: function( mapCanvas ) {
 				var myOptions = {
-					center: new google.maps.LatLng( 30.345695,-97.739703 ),
-					zoom: 2,
+					center: new google.maps.LatLng( 60.345695,97.739703 ),
+					zoom: 10,
 					mapTypeId: google.maps.MapTypeId.ROADMAP
 				};
 
@@ -14,29 +14,40 @@ define(
                 var ctaLayer = new google.maps.KmlLayer({
                 url: beerRunKmlUrl
                 });
-                ctaLayer.setMap(map);
+                //ctaLayer.setMap(map);
 
 			    // Try HTML5 geolocation
                 if (navigator.geolocation) {
-                    navigator.geolocation.getCurrentPosition(function (position) {
-                        var pos = new google.maps.LatLng(position.coords.latitude,
-                                                         position.coords.longitude);
-
-                        var infowindow = new google.maps.InfoWindow({
-                            map: map,
-                            position: pos
-                        });
-
-                        map.setCenter(pos);
-                    }, function () {
-                        //handleNoGeolocation(true);
-                    });
+                    currentLocation();
                 } else {
                     // Browser doesn't support Geolocation
-                    //handleNoGeolocation(false);
+                    handleNoGeolocation(false);
                 }
 
 			}		
+		}
+
+		function currentLocation() {
+		    var mapOptions = {
+		        zoom: 10,
+		        mapTypeId: google.maps.MapTypeId.ROADMAP
+		    };
+		    var mapCanvas = $("#map_canvas").get(0);
+		    var map = new google.maps.Map(mapCanvas, mapOptions);
+		    navigator.geolocation.getCurrentPosition(function (position) {
+		        var pos = new google.maps.LatLng(position.coords.latitude,
+                                                 position.coords.longitude);
+
+		        var infowindow = new google.maps.InfoWindow({
+		            map: map,
+		            position: pos
+		        });
+
+		        map.setCenter(pos);
+		    }, function () {
+		        handleNoGeolocation(true);
+		    });
+
 		}
 
 		function handleNoGeolocation(errorFlag) {

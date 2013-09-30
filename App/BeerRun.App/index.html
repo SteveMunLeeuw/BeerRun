@@ -40,6 +40,7 @@
 <body>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
+
     <div class="navbar navbar-fixed-top">
         <div class="navbar-inner">
             <div class="container">
@@ -52,15 +53,17 @@
               <div class="nav-collapse collapse">
                 <ul class="nav">
                   <li class="active"><a href="#">Home</a></li>
-                  <li><a href="mailto:steve.munleeuw@gmail.com">Send Feedback</a></li>
-                  <li><a href="#about">About</a></li>
-                  <li><a href="#contact">Contact</a></li>
+                  <li><a href="javascript:currentLocation();">Current Location</a></li>
+                  <li><a href="help.html">Help</a></li>
+                  <li><a href="about.html">About</a></li>
+                  <li><a href="mailto:steve.munleeuw@gmail.com">Contact</a></li>
                 </ul>
               </div><!--/.nav-collapse -->
         </div>
     </div>
     </div>
 
+    <div class="row"></div>
   <div id="map_canvas"></div>
 
   <script data-main="js/app/main" src="js/libs/require-jquery.js"></script>
@@ -76,6 +79,9 @@
   <!-- scripts concatenated and minified via ant build script-->
   <script defer src="js/plugins.js"></script>
   <script defer src="js/script.js"></script>
+    <!-- I shouldn't be adding google.js here, I need to figure out how require.js works-->
+  <script defer src="js/app/google.js"></script>
+
   <!-- end scripts-->
 	
   <!-- Change UA-XXXXX-X to be your site's ID -->
