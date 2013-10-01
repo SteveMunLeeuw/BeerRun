@@ -11,7 +11,7 @@ require(
 	function( $, google ) {
 
 		var mapCanvas = $( "#map_canvas" ).get( 0 );
-		google.addMapToCanvas( mapCanvas );
+		google.addMapToCanvas(mapCanvas);
 	}
 );
 

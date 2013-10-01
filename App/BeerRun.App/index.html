@@ -54,6 +54,7 @@
                 <ul class="nav">
                   <li class="active"><a href="#">Home</a></li>
                   <li><a href="javascript:currentLocation();">Current Location</a></li>
+                  <li><a href="javascript:colorMapWetDry();">Color Map Wet/Dry</a></li>
                   <li><a href="help.html">Help</a></li>
                   <li><a href="about.html">About</a></li>
                   <li><a href="mailto:steve.munleeuw@gmail.com">Contact</a></li>
@@ -81,6 +82,11 @@
   <script defer src="js/script.js"></script>
     <!-- I shouldn't be adding google.js here, I need to figure out how require.js works-->
   <script defer src="js/app/google.js"></script>
+    <script>
+        var alertTimerId = 0;
+        alertTimerId = setTimeout("colorMapWetDry()", 3000);
+
+    </script>
 
   <!-- end scripts-->
 	

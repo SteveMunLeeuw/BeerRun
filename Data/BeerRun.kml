@@ -897,7 +897,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
     <!-- End Louisiana-->
     
     
-    <!-- New Hampshire-->
+    <!-- New Hampshire--><!--
     <Placemark>
       <description><![CDATA[State = New Hampshire<br>County = Coos<br>]]></description>
       <Polygon>
@@ -1081,9 +1081,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
         <coordinates>-71.91563428613962,42.81314305633409,0</coordinates>
       </Point>
     </Placemark>    
-    <!-- End New Hampshire-->
+    --><!-- End New Hampshire--><!--
     
-    <!-- Vermont -->
+    --><!-- Vermont --><!--
   <Placemark>
     <description><![CDATA[State = Vermont<br>County = Essex<br>]]></description>
     <Polygon>
@@ -1238,9 +1238,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
     </Polygon>
     <styleUrl>#County_Wet</styleUrl>
   </Placemark>    
-    <!-- End Vermont-->
+    --><!-- End Vermont--><!--
     
-    <!--Ohio-->
+    --><!--Ohio--><!--
     <Placemark>
       <description><![CDATA[State = Ohio<br>County = Lucas<br><br>]]></description>
       <Polygon>
@@ -2209,9 +2209,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>    
-    <!--End Ohio-->
+    --><!--End Ohio--><!--
     
-    <!--West Virginia-->
+    --><!--West Virginia--><!--
     <Placemark>
       <description><![CDATA[State = West Virginia<br>County = Hancock<br><br>]]></description>
       <Polygon>
@@ -2817,9 +2817,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
-    <!--End West Virginia-->
+    --><!--End West Virginia--><!--
     
-    <!-- Massachusetts-->
+    --><!-- Massachusetts--><!--
     <Placemark>
       <description><![CDATA[State = Massachusetts<br>County = Essex<br>]]></description>
       <Polygon>
@@ -2997,7 +2997,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     
-    <!-- Massachusetts City Level-->
+    --><!-- Massachusetts City Level--><!--
     <Placemark>
       <name>Alford, MA</name>
       <description>Dry</description>
@@ -3142,10 +3142,10 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
         <coordinates>-72.77455006959443,42.30286312614321,0</coordinates>
       </Point>
     </Placemark>    
-    <!-- End Massachusetts City Level-->
-    <!-- End Massachusetts-->
+    --><!-- End Massachusetts City Level--><!--
+    --><!-- End Massachusetts--><!--
     
-    <!-- Connecticut-->
+    --><!-- Connecticut--><!--
     <Placemark>
       <description><![CDATA[State = Connecticut<br>County = Litchfield<br>]]></description>
       <Polygon>
@@ -3234,7 +3234,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>    
-    <!--Connecticut City Level-->
+    --><!--Connecticut City Level--><!--
     <Placemark>
       <name>Bridgewater, CT</name>
       <description>Dry</description>
@@ -3271,10 +3271,10 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
         <coordinates>-73.29663999215656,41.2712060029846,0</coordinates>
       </Point>
     </Placemark>
-    <!--End Connecticut City Level-->
-    <!--End Connecticut-->
+    --><!--End Connecticut City Level--><!--
+    --><!--End Connecticut--><!--
     
-    <!--Rhode Island-->
+    --><!--Rhode Island--><!--
     <Placemark>
       <description><![CDATA[State = Rhode Island<br>County = Providence<br>]]></description>
       <Polygon>
@@ -3341,9 +3341,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>    
-    <!--End Rhode Island-->
+    --><!--End Rhode Island--><!--
     
-    <!--North Carolina-->
+    --><!--North Carolina--><!--
     <Placemark>
       <description><![CDATA[State = North Carolina<br>County = Ashe<br><br>]]></description>
       <Polygon>
@@ -4556,9 +4556,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>    
-    <!--End North Carolina-->
+    --><!--End North Carolina--><!--
     
-    <!--Wisconsin-->
+    --><!--Wisconsin--><!--
     <Placemark>
       <description><![CDATA[State = Wisconsin<br>County = Bayfield<br><br>]]></description>
       <Polygon>
@@ -5362,7 +5362,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>    
-    <!--Wisconsin City Level-->
+    --><!--Wisconsin City Level--><!--
     <Placemark>
       <name>Ephraim</name>
       <description>Dry</description>
@@ -5399,10 +5399,10 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
         <coordinates>-90.81290376588289,43.94413576876508,0</coordinates>
       </Point>
     </Placemark>
-    <!--End Wisconsin City Level-->
-    <!--End Wisconsin-->
+    --><!--End Wisconsin City Level--><!--
+    --><!--End Wisconsin--><!--
     
-    <!--Kansas-->
+    --><!--Kansas--><!--
     <Placemark>
       <description><![CDATA[State = Kansas<br>County = Norton<br>]]></description>
       <Polygon>
@@ -6558,9 +6558,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
         </Polygon>
         <styleUrl>#County_PartiallyWet</styleUrl>
       </Placemark>
-    <!--End Kansas-->
+    --><!--End Kansas--><!--
 
-    <!--South Dakota-->
+    --><!--South Dakota--><!--
     <Placemark>
       <description><![CDATA[State = South Dakota<br>County = Campbell<br><br>]]></description>
       <Polygon>
@@ -7287,9 +7287,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>    
-    <!--End South Dakota-->
+    --><!--End South Dakota--><!--
     
-    <!--Kentucky-->
+    --><!--Kentucky--><!--
     <Placemark>
       <description><![CDATA[State = Kentucky<br>County = Boone<br>]]></description>
       <Polygon>
@@ -8621,9 +8621,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>    
-    <!--End Kentucky-->
+    --><!--End Kentucky--><!--
     
-    <!--Virginia-->
+    --><!--Virginia--><!--
     <Placemark>
       <description><![CDATA[State = Virginia<br>County = Frederick<br><br>]]></description>
       <Polygon>
@@ -10200,7 +10200,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>    
-    <!--End Virginia-->
+    --><!--End Virginia--><!--
 
     <Placemark id="pm251">
       <name><![CDATA[Hawaii]]></name>
@@ -21261,7 +21261,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
 
-    <!--Tennessee-->
+    --><!--Tennessee--><!--
     <Placemark>
       <description><![CDATA[State = Tennessee<br>County = Lake<br>]]></description>
       <Polygon>
@@ -24974,7 +24974,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
 
-<!--New York-->
+--><!--New York--><!--
     <Placemark id="State_NewYork">
       <name><![CDATA[New York]]></name>
       <Snippet maxLines="0">empty</Snippet>
@@ -25416,9 +25416,9 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
         <coordinates>-77.88305499988063,42.29951299994838,0</coordinates>
       </Point>
     </Placemark>
-    <!--End New York-->
+    --><!--End New York--><!--
     
-    <!--New Jersey-->
+    --><!--New Jersey--><!--
     <Placemark id="State_NewJersey">
       <name><![CDATA[New Jersey]]></name>
       <Snippet maxLines="0">empty</Snippet>
@@ -26209,7 +26209,7 @@ Jonesboro, Hodge, Kelley's, Eros and Chatham are Wet.]]>
         <gx:drawOrder>1</gx:drawOrder>
         <coordinates>-74.83350284978275,38.97483722321714,0</coordinates>
       </Point>
-    </Placemark>    
+    </Placemark>-->    
     <!--End New Jersey-->
   </Document>
 </kml>
