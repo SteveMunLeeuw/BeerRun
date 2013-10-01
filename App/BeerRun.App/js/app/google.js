@@ -31,9 +31,18 @@ function colorMapWetDry() {
     };
     var mapCanvas = $("#map_canvas").get(0);
     var map = new google.maps.Map(mapCanvas, mapOptions);
+    
     var beerRunKmlUrl = 'https://raw.github.com/SteveMunLeeuw/BeerRun/master/Data/BeerRun.kml?_salt=' + Math.random();
     var ctaLayer = new google.maps.KmlLayer({
         url: beerRunKmlUrl
+    });
+    
+    navigator.geolocation.getCurrentPosition(function (position) {
+        var pos = new google.maps.LatLng(position.coords.latitude,
+                                            position.coords.longitude);
+        map.setCenter(pos);
+    }, function () {
+        handleNoGeolocation(true);
     });
     ctaLayer.setMap(map);
 }
@@ -58,7 +67,6 @@ function currentLocation() {
 	}, function () {
 		handleNoGeolocation(true);
 	});
-
 }
 
 function handleNoGeolocation(errorFlag) {
